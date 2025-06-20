@@ -1,0 +1,1408 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 5,
+    "params": {
+      "json": "{\"query\": \"winter\", \"params\": {\"q.op\": \"AND\", \"start\": 0, \"rows\": 30, \"df\": \"Description\"}}"
+    }
+  },
+  "response": {
+    "numFound": 82,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": [
+          "Erzurum1916"
+        ],
+        "Country": [
+          "Turkey"
+        ],
+        "Latitude": [
+          39.9054993
+        ],
+        "Longitude": [
+          41.2658236
+        ],
+        "Name": [
+          "Erzurum"
+        ],
+        "Year": [
+          1916
+        ],
+        "Participants": [
+          "['Bayburt', 'Erzincan', 'Russian', 'Turks']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Erzurum offensive (Russian: \u042d\u0440\u0437\u0443\u0440\u0443\u043c\u0441\u043a\u043e\u0435 \u0441\u0440\u0430\u0436\u0435\u043d\u0438\u0435, romanized: Erzurumskoe srazhenie; Turkish: Erzurum Taarruzu) or Battle of Erzurum (Turkish: Erzurum Muharebesi) was a major winter offensive by the Imperial Russian Army on the Caucasus Campaign, during the First World War that led to the capture of the strategic city of Erzurum. The Ottoman forces, in winter quarters, suffered a series of unexpected reverses, which led to a Russian victory."
+        ],
+        "id": "fd712d7e-d491-4319-b5f1-e1678763748b",
+        "Name_War": [
+          "World War I"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p789. http://web.archive.org/web/20160322053814/http://www.armenica.org/history/maps/222erzurum-camp1916.gif for Shapefile"
+        ],
+        "_version_": 1816201716295532558,
+        "_root_": "fd712d7e-d491-4319-b5f1-e1678763748b"
+      },
+      {
+        "ID": [
+          "Suomussalmi1939"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          64.8841107
+        ],
+        "Longitude": [
+          28.911656
+        ],
+        "Name": [
+          "Suomussalmi"
+        ],
+        "Year": [
+          1939
+        ],
+        "Participants": [
+          "['Finland', 'Finnish', 'Finns', 'Hjalmar Siilasvuo', 'Russian']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Suomussalmi was fought between Finnish and Soviet forces in the Winter War. The action took place from 30 November 1939 to 8 January 1940. The outcome was a Finnish victory against superior forces. This battle is considered the clearest, most important, and most significant Finnish victory in the northern half of Finland. In Finland, the battle is still seen today as a symbol of the entirety of the Winter War itself."
+        ],
+        "id": "8c17f732-965c-4f10-aa47-be18914c35b2",
+        "Name_War": [
+          "Russo-Finnish War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p436"
+        ],
+        "_version_": 1816201716642611203,
+        "_root_": "8c17f732-965c-4f10-aa47-be18914c35b2"
+      },
+      {
+        "ID": [
+          "Raate Road1940"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          64.8159561
+        ],
+        "Longitude": [
+          29.6366663
+        ],
+        "Name": [
+          "Raate Road"
+        ],
+        "Year": [
+          1940
+        ],
+        "Participants": [
+          "['Finland', 'Russians', 'Siilasvuo']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Raate Road (Finnish: Raatteen tien taistelu) was fought during the Winter War between the Soviet Union and Finland in January 1940, as a part of the Battle of Suomussalmi."
+        ],
+        "id": "6575bd5a-a9b0-4db4-a5e7-f4692b0c250a",
+        "Name_War": [
+          "Russo-Finnish War"
+        ],
+        "_version_": 1816201716579696641,
+        "_root_": "6575bd5a-a9b0-4db4-a5e7-f4692b0c250a"
+      },
+      {
+        "ID": [
+          "Tolvajarvi1939"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          62.288056
+        ],
+        "Longitude": [
+          31.49
+        ],
+        "Name": [
+          "Tolvajarvi"
+        ],
+        "Year": [
+          1939
+        ],
+        "Participants": [
+          "['Finland', 'Tolvajarvi']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Tolvaj\u00e4rvi (['tol.va.j\u00e6r.vi]; Finnish: Tolvaj\u00e4rven\u2013\u00c4gl\u00e4j\u00e4rven taistelu, Russian: \u0411\u0438\u0442\u0432\u0430 \u043f\u0440\u0438 \u0422\u043e\u043b\u0432\u0430\u044f\u0440\u0432\u0438) was fought on 12 December 1939 between Finland and the Soviet Union. It was the first large offensive victory for the Finns in the Winter War."
+        ],
+        "id": "cee8a9f8-d90b-47b6-9902-aa5f639386f7",
+        "Name_War": [
+          "Russo-Finnish War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p435"
+        ],
+        "_version_": 1816201716659388428,
+        "_root_": "cee8a9f8-d90b-47b6-9902-aa5f639386f7"
+      },
+      {
+        "ID": [
+          "Czarnowo, Mazowieckie1806"
+        ],
+        "Country": [
+          "Poland"
+        ],
+        "Latitude": [
+          53.1081435
+        ],
+        "Longitude": [
+          18.2216226
+        ],
+        "Name": [
+          "Czarnowo, Mazowieckie"
+        ],
+        "Year": [
+          1806
+        ],
+        "Participants": [
+          "['Jena', 'Poland', 'Prussians', 'Russian', 'Warsaw']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Having destroyed the Prussians at Jena and Auerstadt in October, Napoleon Bonaparte invaded Poland and captured Warsaw. Marching north across the Wkra, Marshal Louis Davout defeated the heavily outnumbered Russian General Count Alexander Ostermann-Tolstoy at Czarnowo. After further victories at Pultusk and Golymin, Bonaparte withdrew to winter quarters."
+        ],
+        "id": "dd3ba8ff-6156-469f-805b-3b4011cee8cb",
+        "Name_War": [
+          " Napoleonic Wars (4th Coalition)  "
+        ],
+        "Lehmann_Zhukov_Scale": [
+          2.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p151"
+        ],
+        "_version_": 1816201716255686657,
+        "_root_": "dd3ba8ff-6156-469f-805b-3b4011cee8cb"
+      },
+      {
+        "ID": [
+          "Dvinsk1915"
+        ],
+        "Country": [
+          "Latvia"
+        ],
+        "Latitude": [
+          55.874736
+        ],
+        "Longitude": [
+          26.536179
+        ],
+        "Name": [
+          "Dvinsk"
+        ],
+        "Year": [
+          1915
+        ],
+        "Participants": [
+          "['Dvinsk', 'Germans', 'Lithuania']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Daugavpils, or Battle of Dyneburg, was the final battle during the Polish-Soviet War of 1919. A joint Polish and Latvian force, operating under Polish Staff orders known as \"Operation Winter\", attacked the Red Army garrison in Dunaburg, or Daugavpils, from 3 to 5 January 1920.:\u200a76\u201377\u200a"
+        ],
+        "id": "6418e246-3d8c-4148-92a6-354f3dbf9a6b",
+        "Name_War": [
+          "World War I"
+        ],
+        "_version_": 1816201716285046793,
+        "_root_": "6418e246-3d8c-4148-92a6-354f3dbf9a6b"
+      },
+      {
+        "ID": [
+          "Monte Cassino1944"
+        ],
+        "Country": [
+          "Italy"
+        ],
+        "Latitude": [
+          41.4916346
+        ],
+        "Longitude": [
+          13.807103
+        ],
+        "Name": [
+          "Monte Cassino"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['American', 'German', 'Italy', 'New Zealand', 'Polish']"
+        ],
+        "Winner": [
+          "United States, New Zealand, Poland"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Monte Cassino, also known as the Battle for Rome, was a series of four military assaults by the Allies against German forces in Italy during the Italian Campaign of World War II. The objective was to break through the Winter Line and facilitate an advance towards Rome."
+        ],
+        "id": "fa4221ff-09ce-4c87-9e3a-709e95352752",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Besieged, Paul K Davis, p327"
+        ],
+        "_version_": 1816201716498956288,
+        "_root_": "fa4221ff-09ce-4c87-9e3a-709e95352752"
+      },
+      {
+        "ID": [
+          "Altona1714"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          53.57916
+        ],
+        "Longitude": [
+          9.8745558
+        ],
+        "Name": [
+          "Altona"
+        ],
+        "Year": [
+          1714
+        ],
+        "Participants": [
+          "['Altona', 'Danish', 'Germany', 'Hamburg', 'Russia', 'Russian', 'Saxon', 'Swedish']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Sweden"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "While campaigning in northern Germany, the Swedish army of General Magnus Stenbock defeated Danish and Saxon troops, but was overwhelmed at Altona, near Hamburg, by the Russian army of Tsar Peter I. Although the Tsar then withdrew to winter quarters, his victory led to Russia securing the whole of Pomerania the following year."
+        ],
+        "id": "9ce0506d-55e8-4975-bffe-801e163ae884",
+        "Name_War": [
+          "['Northern War                                          ']"
+        ],
+        "_version_": 1816201716049117184,
+        "_root_": "9ce0506d-55e8-4975-bffe-801e163ae884"
+      },
+      {
+        "ID": [
+          "Fucine Lake-89"
+        ],
+        "Country": [
+          "Italy"
+        ],
+        "Latitude": [
+          41.995
+        ],
+        "Longitude": [
+          13.547222
+        ],
+        "Name": [
+          "Fucine Lake"
+        ],
+        "Year": [
+          -89
+        ],
+        "Participants": [
+          "['Arezzano', 'Asculum', 'Fucino', 'Italian', 'Italy', 'Roman', 'Samnite']"
+        ],
+        "Winner": [
+          "Marsi, Samnites"
+        ],
+        "Loser": [
+          "Rome"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Fucine Lake was fought in 89 BC between a Roman army and a rebel force during the Social War.  Lucius Porcius Cato was the leader of the Roman army at this battle.  The consul Porcius Cato was defeated and killed while storming a Marsic camp in winter or early spring."
+        ],
+        "id": "401a3534-4766-4f43-a465-9f012e45b4fb",
+        "Name_War": [
+          "Roman Social War"
+        ],
+        "_version_": 1816201716318601226,
+        "_root_": "401a3534-4766-4f43-a465-9f012e45b4fb"
+      },
+      {
+        "ID": [
+          "Mannerheim Line1939"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          62.4830855
+        ],
+        "Longitude": [
+          30.3212713
+        ],
+        "Name": [
+          "Mannerheim Line"
+        ],
+        "Year": [
+          1939
+        ],
+        "Participants": [
+          "['Russians', 'Soviet']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "As the Winter War began, Soviet General Kirill Meretskov took 120,000 men and 1,000 tanks against Finland\u2019s Mannerheim Line across the Karelian Isthmus. However, outnumbered commander Hugo O\u00a8stermann, with Generals Harold O\u00a8quist and Erik Heinrichs, achieved a courageous defensive victory. Meanwhile, the Russians were also repulsed further north at Tolvajarvi."
+        ],
+        "id": "88b2c45f-7df7-4e39-85a1-79b6455bbfb3",
+        "Name_War": [
+          "Russo-Finnish War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p156"
+        ],
+        "_version_": 1816201716472741903,
+        "_root_": "88b2c45f-7df7-4e39-85a1-79b6455bbfb3"
+      },
+      {
+        "ID": [
+          "Voronezh1942"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          51.6754966
+        ],
+        "Longitude": [
+          39.2088823
+        ],
+        "Name": [
+          "Voronezh"
+        ],
+        "Year": [
+          1942
+        ],
+        "Participants": [
+          "['German', 'Russian']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "With the Russian winter offensive halted at Kharkov, Panzer General Herman Hoth opened the second German offensive north towards Voronezh. After heavy resistance, Voronezh was taken from General Filip Golikov and a bridgehead was established on the Don. However, the German advance was halted and Hoth moved south through Rostov towards the Caucasus."
+        ],
+        "id": "5914a9c2-cfa1-4585-9f9e-aa409b98c2b1",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          5.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p453"
+        ],
+        "_version_": 1816201716683505665,
+        "_root_": "5914a9c2-cfa1-4585-9f9e-aa409b98c2b1"
+      },
+      {
+        "ID": [
+          "Karelia1941"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          63.1558702
+        ],
+        "Longitude": [
+          32.9905552
+        ],
+        "Name": [
+          "Karelia"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Finnish', 'German', 'Leningrad', 'Russia', 'Soviets']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Continuation War, also known as the Second Soviet-Finnish War, was a conflict fought by Finland and Nazi Germany against the Soviet Union during World War II. It began with a Finnish declaration of war and invasion on 25 June 1941 and ended on 19 September 1944 with the Moscow Armistice. The Soviet Union and Finland had previously fought the Winter War from 1939 to 1940, which ended with the Soviet failure to conquer Finland and the Moscow Peace Treaty. Numerous reasons have been proposed for the Finnish decision to invade, with regaining territory lost during the Winter War regarded as the most common. Other justifications for the conflict include Finnish President Risto Ryti's vision of a Greater Finland and Commander-in-Chief Carl Gustaf Emil Mannerheim's desire to annex East Karelia."
+        ],
+        "id": "1246b9da-5785-42ae-90f0-6c4cdf4553ee",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p802"
+        ],
+        "_version_": 1816201716416118799,
+        "_root_": "1246b9da-5785-42ae-90f0-6c4cdf4553ee"
+      },
+      {
+        "ID": [
+          "Clifton Moor1745"
+        ],
+        "Country": [
+          "United Kingdom"
+        ],
+        "Latitude": [
+          53.9879333
+        ],
+        "Longitude": [
+          -1.1073396
+        ],
+        "Name": [
+          "Clifton Moor"
+        ],
+        "Year": [
+          1745
+        ],
+        "Participants": [
+          "['Cumberland', 'England', 'Prestonpans', 'Scotland', 'Scottish']"
+        ],
+        "Winner": [
+          "Jacobites"
+        ],
+        "Loser": [
+          "Hannoverians"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Advancing into England soon after victory at Prestonpans, Scottish rebels under Charles Stuart (Bonnie Prince Charlie) finally turned back, and a mid-winter rearguard action on Clifton Moor, near Penrith, saw Jacobite commander Lord George Murray defeat the pursuing army of Duke William of Cumberland. The rebels then crossed into Scotland and besieged Stirling."
+        ],
+        "id": "f0b624c7-23a0-48b5-a2ae-1f97d3cd9827",
+        "Name_War": [
+          "Jacobite Rebellion (the 45)"
+        ],
+        "_version_": 1816201716232617993,
+        "_root_": "f0b624c7-23a0-48b5-a2ae-1f97d3cd9827"
+      },
+      {
+        "ID": [
+          "Hallue1870"
+        ],
+        "Country": [
+          "France"
+        ],
+        "Latitude": [
+          49.9490318
+        ],
+        "Longitude": [
+          2.452928
+        ],
+        "Name": [
+          "Hallue"
+        ],
+        "Year": [
+          1870
+        ],
+        "Participants": [
+          "['Arras', 'French', 'German']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Prussia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "A mid-winter French offensive on the Somme saw General Louis L\u00e9on Faidherbe attempt to recapture Amiens, taking position to the north-east on the Hallue, where he bravely repulsed an attack by General Edwin von Manteuffel. But with German reinforcements approaching, Faidherbe withdrew north towards Arras. Within days he attacked towards P\u00e9ronne at Bapaume."
+        ],
+        "id": "81645caf-3e21-4621-95b6-5459892a422f",
+        "Name_War": [
+          "Franco-Prussian War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p705"
+        ],
+        "_version_": 1816201716364738566,
+        "_root_": "81645caf-3e21-4621-95b6-5459892a422f"
+      },
+      {
+        "ID": [
+          "Kruje, Albania1450"
+        ],
+        "Country": [
+          "Albania"
+        ],
+        "Latitude": [
+          41.5094765
+        ],
+        "Longitude": [
+          19.7710732
+        ],
+        "Name": [
+          "Kruje, Albania"
+        ],
+        "Year": [
+          1450
+        ],
+        "Participants": [
+          "['Albania', 'Kossovo', 'Murad', 'Naples', 'Turkish']"
+        ],
+        "Winner": [
+          "Albania"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "After decisive victory at Kossovo in 1448, Sultan Murad II again besieged the mountain fortress of Kruj\u03bb in central Albania, held by Count Uran. With George Kastriote Skanderbeg harrying him from the hills and winter approaching, Murad withdrew after four months with up to 20,000 casualties. Skanderbeg later handed Kruj\u03bb to Alfonso V of Naples."
+        ],
+        "id": "3cc68513-f6a9-4245-8a80-4e641517483b",
+        "Name_War": [
+          "Albanian Turkish Wars"
+        ],
+        "_version_": 1816201716433944576,
+        "_root_": "3cc68513-f6a9-4245-8a80-4e641517483b"
+      },
+      {
+        "ID": [
+          "Mannerheim Line1940"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          62.4830855
+        ],
+        "Longitude": [
+          30.3212713
+        ],
+        "Name": [
+          "Mannerheim Line"
+        ],
+        "Year": [
+          1940
+        ],
+        "Participants": [
+          "['Finland', 'New Russian', 'Russians']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Finland"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "New Russian commander Semyon Timoshenko recovered from terrible losses at Tolvajarvi and Suomussalmi and launched a massive fresh assault on the Mannerheim Line across the Karelian Isthmus. After one of the heaviest bombardments seen in Europe, the Russians broke through around Summa to capture Vyborg. Finland sued for peace to end the Winter War."
+        ],
+        "id": "116d2eac-e857-4c36-b6ff-d3aeb4284017",
+        "Name_War": [
+          "Russo-Finnish War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p156"
+        ],
+        "_version_": 1816201716472741904,
+        "_root_": "116d2eac-e857-4c36-b6ff-d3aeb4284017"
+      },
+      {
+        "ID": [
+          "Vaxholm1612"
+        ],
+        "Country": [
+          "Sweden"
+        ],
+        "Latitude": [
+          59.4032968
+        ],
+        "Longitude": [
+          18.3263804
+        ],
+        "Name": [
+          "Vaxholm"
+        ],
+        "Year": [
+          1612
+        ],
+        "Participants": [
+          "['Christian', 'Danish', 'Denmark', 'Kalmar', 'Stockholm', 'Swedish', 'Vaxholm']"
+        ],
+        "Winner": [
+          "Sweden"
+        ],
+        "Loser": [
+          "Denmark"
+        ],
+        "Theatre": [
+          "Land and Sea"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Christian IV of Denmark became stalled on land after seizing Alvsborg (24 May), so took a large fleet against the fortress of Vaxholm, outside Stockholm, where a massive Danish bombardment damaged the fortress and the nearby Swedish fleet. But Vaxholm held out and, with winter approaching, Christian withdrew and made peace with King Gustavus Adolphus."
+        ],
+        "id": "e319792e-121b-4c76-942c-68745258a753",
+        "Name_War": [
+          "War of Kalmar"
+        ],
+        "_version_": 1816201716674068494,
+        "_root_": "e319792e-121b-4c76-942c-68745258a753"
+      },
+      {
+        "ID": [
+          "Bergfriede1807"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          52.4518825
+        ],
+        "Longitude": [
+          11.0679096
+        ],
+        "Name": [
+          "Bergfriede"
+        ],
+        "Year": [
+          1807
+        ],
+        "Participants": [
+          "['Russians']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "At the start of Russia\u2019s mid-winter offensive against Napoleon Bonaparte in eastern Prussia, part of General Levin Bennigsen\u2019s army was attacked by Marshal Nicolas Soult at the Bergfriede crossing of the Alle, north of Ionkovo. Having withstood a large-scale assault, the Russians slipped away during the night north to Konigsberg, ready for Eylau five days later."
+        ],
+        "id": "b4ec0517-0065-4319-a2a8-26f095301a5e",
+        "Name_War": [
+          "Napoleonic Wars (4th Coalition)"
+        ],
+        "_version_": 1816201716145586186,
+        "_root_": "b4ec0517-0065-4319-a2a8-26f095301a5e"
+      },
+      {
+        "ID": [
+          "Domitz1635"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          53.1361955
+        ],
+        "Longitude": [
+          11.2673458
+        ],
+        "Name": [
+          "Domitz"
+        ],
+        "Year": [
+          1635
+        ],
+        "Participants": [
+          "['Mecklenberg', 'Pomerania', 'Sweden', 'Swedish']"
+        ],
+        "Winner": [
+          "Sweden"
+        ],
+        "Loser": [
+          "Saxony"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "John George of Saxony declared war on Sweden in Pomerania and advanced down the Elbe against Swedish General Johann Ban\u00e9r. In a mid-winter counter-offensive, Ban\u00e9r attacked across the Elbe at Domitz, northeast of Dannenberg, defeating a small Saxon force and opening way into Mecklenberg. The Saxons were beaten again in December at Goldberg and Kyritz."
+        ],
+        "id": "09280bbf-3b39-4376-b10e-3cbd311730d8",
+        "Name_War": [
+          "Thirty Years War"
+        ],
+        "_version_": 1816201716276658180,
+        "_root_": "09280bbf-3b39-4376-b10e-3cbd311730d8"
+      },
+      {
+        "ID": [
+          "Funen1658"
+        ],
+        "Country": [
+          "Denmark"
+        ],
+        "Latitude": [
+          55.3234069
+        ],
+        "Longitude": [
+          9.7062898
+        ],
+        "Name": [
+          "Funen"
+        ],
+        "Year": [
+          1658
+        ],
+        "Participants": [
+          "['Danish', 'Sweden', 'Swedes', 'Zealand']"
+        ],
+        "Winner": [
+          "Sweden"
+        ],
+        "Loser": [
+          "Denmark"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Having captured Fredericia and Danish Jutland, Charles X of Sweden and Count Karl Gustav Wrangel took advantage of an extreme winter to cross the frozen Little Belt and attack Funen Island. Despite Danish attempts to smash up the ice with artillery fire, Funen fell after heavy fighting. The Swedes then marched east to capture Zealand and besiege Copenhagen."
+        ],
+        "id": "e34fdd02-16b7-4c62-8eb6-c84af903cbdc",
+        "Name_War": [
+          "1st Northern War"
+        ],
+        "_version_": 1816201716319649797,
+        "_root_": "e34fdd02-16b7-4c62-8eb6-c84af903cbdc"
+      },
+      {
+        "ID": [
+          "Givenchy1914"
+        ],
+        "Country": [
+          "France"
+        ],
+        "Latitude": [
+          50.391425
+        ],
+        "Longitude": [
+          2.77245
+        ],
+        "Name": [
+          "Givenchy"
+        ],
+        "Year": [
+          1914
+        ],
+        "Participants": [
+          "['Arras', 'British', 'French', 'Givenchy', 'Indian']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Winter operations 1914\u20131915 is the name given to military operations during the First World War, from 23 November 1914 \u2013 6 February 1915, in the 1921 report of the British government Battles Nomenclature Committee. The operations took place on the part of the Western Front held by the British Expeditionary Force (BEF), in French and Belgian Flanders."
+        ],
+        "id": "f97be286-43d0-421b-801d-7be59e1a0406",
+        "Name_War": [
+          "World War I"
+        ],
+        "_version_": 1816201716332232711,
+        "_root_": "f97be286-43d0-421b-801d-7be59e1a0406"
+      },
+      {
+        "ID": [
+          "Givenchy1915"
+        ],
+        "Country": [
+          "France"
+        ],
+        "Latitude": [
+          50.391425
+        ],
+        "Longitude": [
+          2.77245
+        ],
+        "Name": [
+          "Givenchy"
+        ],
+        "Year": [
+          1915
+        ],
+        "Participants": [
+          "['Artois', 'British', 'French', 'Givenchy']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "United Kingdom"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Winter operations 1914\u20131915 is the name given to military operations during the First World War, from 23 November 1914 \u2013 6 February 1915, in the 1921 report of the British government Battles Nomenclature Committee. The operations took place on the part of the Western Front held by the British Expeditionary Force (BEF), in French and Belgian Flanders."
+        ],
+        "id": "8fcef34f-6108-4083-8805-8bdaf2fc120c",
+        "Name_War": [
+          "World War I"
+        ],
+        "_version_": 1816201716333281280,
+        "_root_": "8fcef34f-6108-4083-8805-8bdaf2fc120c"
+      },
+      {
+        "ID": [
+          "Lahijan1757"
+        ],
+        "Country": [
+          "Iran"
+        ],
+        "Latitude": [
+          37.207073
+        ],
+        "Longitude": [
+          50.0033677
+        ],
+        "Name": [
+          "Lahijan"
+        ],
+        "Year": [
+          1757
+        ],
+        "Participants": [
+          "['Azerbaijan', 'Caspian', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Mohammad Kasan Khan of Qajar"
+        ],
+        "Loser": [
+          "Azad Khan of Afghanistan"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Mohammad Hasan Khan of Qajar led a brilliant winter offensive south of the Caspian, where he suddenly assaulted his rival Azad Khan Afghan who had advanced into Persia from Azerbaijan. Attacking at Rudsar, Mohammad Hasan routed the garrison at nearby Lahijan, then took Rasht. Azad fled with terrible losses and was defeated again in the summer at Urmiya."
+        ],
+        "id": "260bc279-50a6-4f09-a372-d7b4c3ac3cfd",
+        "Name_War": [
+          "Persian Wars of Succession"
+        ],
+        "_version_": 1816201716439187460,
+        "_root_": "260bc279-50a6-4f09-a372-d7b4c3ac3cfd"
+      },
+      {
+        "ID": [
+          "Melshtitsa1443"
+        ],
+        "Country": [
+          "Bulgaria"
+        ],
+        "Latitude": [
+          42.6955991
+        ],
+        "Longitude": [
+          23.1838624
+        ],
+        "Name": [
+          "Melshtitsa"
+        ],
+        "Year": [
+          1443
+        ],
+        "Participants": [
+          "['Bulgaria', 'Christians', 'Hungary', 'Sofia', 'Turkish', 'Turks', 'Zlatitsa']"
+        ],
+        "Winner": [
+          "Hungary"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "After invading Turkish Bulgaria, King Ladislas of Hungary and General Janos Hunyadi were turned back at Zlatitsa but two weeks later on Christmas Eve repulsed the pursuing Turks at Melshtitsa, near Sofia. Withdrawing across the Balkans in extreme winter conditions, the Christians defeated the Turks again at Kunovica in early January 1444 before finally reaching Hungary."
+        ],
+        "id": "f78bac6d-abfd-4d8e-a4ef-96cde3b95374",
+        "Name_War": [
+          "Turkish-Hungarian Wars"
+        ],
+        "_version_": 1816201716483227665,
+        "_root_": "f78bac6d-abfd-4d8e-a4ef-96cde3b95374"
+      },
+      {
+        "ID": [
+          "Muhlhausen1674"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          51.2098649
+        ],
+        "Longitude": [
+          10.4571001
+        ],
+        "Name": [
+          "Muhlhausen"
+        ],
+        "Year": [
+          1674
+        ],
+        "Participants": [
+          "['French', 'Strasbourg']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Habsburg Empire"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "After an apparent withdrawal, French Marshal Henri de Turenne made secret mid-winter marches from Lorraine and surprised the Imperial army by a sudden reappearance in southern Alsace. At Muhlhausen, west of the Rhine, Turenne routed a large force under Prince Alexandre de Bournonville. Within days, he drove on north towards Strasbourg and battle at Turckheim."
+        ],
+        "id": "299cbdb8-3388-4f8f-a9d0-7887d5d6fddb",
+        "Name_War": [
+          "3rd Dutch War "
+        ],
+        "Lehmann_Zhukov_Scale": [
+          2.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "The Field and the Forge: Population, Production and Power in the Pre Industrial West, John Landes, Oxford 2003, p 386"
+        ],
+        "_version_": 1816201716506296329,
+        "_root_": "299cbdb8-3388-4f8f-a9d0-7887d5d6fddb"
+      },
+      {
+        "ID": [
+          "Murviedro-75"
+        ],
+        "Country": [
+          "Spain"
+        ],
+        "Latitude": [
+          39.6806638
+        ],
+        "Longitude": [
+          -0.285634
+        ],
+        "Name": [
+          "Murviedro"
+        ],
+        "Year": [
+          -75
+        ],
+        "Participants": [
+          "['Murviedro', 'Sagunto', 'Spain']"
+        ],
+        "Winner": [
+          "Draw"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Soon after defeat at the Sucro, Rome\u2019s commanders in Spain, Gnaeus Pompey and Quintus Metellus Pius, were attacked in camp north of Valencia at Murviedro (modern Sagunto) by the combined rebel armies of Quintus Sertorius and Marcus Perpenna. While Metellus defeated Perpenna in a complex action, Pompey was badly beaten by Sertorius and both sides dispersed for the winter."
+        ],
+        "id": "d33d2239-6fcc-4dd3-8894-8e3823a44461",
+        "Name_War": [
+          "Sertorian War"
+        ],
+        "_version_": 1816201716508393476,
+        "_root_": "d33d2239-6fcc-4dd3-8894-8e3823a44461"
+      },
+      {
+        "ID": [
+          "Perm1918"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          58.0296813
+        ],
+        "Longitude": [
+          56.2667916
+        ],
+        "Name": [
+          "Perm"
+        ],
+        "Year": [
+          1918
+        ],
+        "Participants": [
+          "['Bolsheviks', 'Russian Whites']"
+        ],
+        "Winner": [
+          "Russian Whites"
+        ],
+        "Loser": [
+          "Bolsheviks"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Admiral Aleksandr Kolchak seized control of White forces in the east at Omsk and launched a large-scale mid-winter offensive west across the Urals, where General Rudolf Gajda attacked Perm, defended by Generals Rheinhold Berzin and Mikhail Lashevich. The Reds suffered terrible losses in the fall of the city, though further south they captured and held Ufa."
+        ],
+        "id": "49e13742-5c61-4300-a670-b196d3c43bb7",
+        "Name_War": [
+          "Russian Civil War"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p343"
+        ],
+        "_version_": 1816201716557676548,
+        "_root_": "49e13742-5c61-4300-a670-b196d3c43bb7"
+      },
+      {
+        "ID": [
+          "Queetz1807"
+        ],
+        "Country": [
+          "Poland"
+        ],
+        "Latitude": [
+          53.5998065
+        ],
+        "Longitude": [
+          20.0169802
+        ],
+        "Name": [
+          "Queetz"
+        ],
+        "Year": [
+          1807
+        ],
+        "Participants": [
+          "['Eylau', 'Napoleonic', 'Russia', 'Russian', 'Russians']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "During a fresh spring offensive in eastern Prussia following the winter carnage at Eylau (8 February), Russian Generals Levin Bennigsen and Anton Lestocq campaigned east of the Passarge River, repulsing Marshal Jean Baptiste Bernadotte with heavy losses at Mehlsack and Lomitten. Bernadotte then halted the Russians at Queetz and Russia lost again a week later at Friedland."
+        ],
+        "id": "39d65110-4016-421e-bfc2-f01599d8d823",
+        "Name_War": [
+          "Napoleonic Wars (4th Coalition)"
+        ],
+        "Alternative_Sources_Consulted": [
+          "https://www.meyersgaz.org/place/20530040"
+        ],
+        "_version_": 1816201716578648064,
+        "_root_": "39d65110-4016-421e-bfc2-f01599d8d823"
+      },
+      {
+        "ID": [
+          "Urmiya1757"
+        ],
+        "Country": [
+          "Iran"
+        ],
+        "Latitude": [
+          37.5498061
+        ],
+        "Longitude": [
+          45.0786282
+        ],
+        "Name": [
+          "Urmiya"
+        ],
+        "Year": [
+          1757
+        ],
+        "Participants": [
+          "['Afghan', 'Azerbaijan', 'Persian']"
+        ],
+        "Winner": [
+          "Qajar"
+        ],
+        "Loser": [
+          "Azerbaijan"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Mohammad Hasan Khan of Qajar routed Azad Khan Afghan of Azerbaijan in winter at Lahijan (10 February) then captured Tabriz and marched west to besiege Urmiya (modern Orumiyeh), held for Azad by Yusef Khan. Azad approached to relieve the siege and was routed when his allies changed sides. Urmiya quickly surrendered and Mohammad Hasan went on to retake Isfahan."
+        ],
+        "id": "58c80a96-be88-4652-80ff-8f06787c8ff9",
+        "Name_War": [
+          "Persian Wars of Succession"
+        ],
+        "_version_": 1816201716670922763,
+        "_root_": "58c80a96-be88-4652-80ff-8f06787c8ff9"
+      },
+      {
+        "ID": [
+          "Veszprem1593"
+        ],
+        "Country": [
+          "Hungary"
+        ],
+        "Latitude": [
+          47.1028087
+        ],
+        "Longitude": [
+          17.9093019
+        ],
+        "Name": [
+          "Veszprem"
+        ],
+        "Year": [
+          1593
+        ],
+        "Participants": [
+          "['Hungary', 'Ottoman']"
+        ],
+        "Winner": [
+          "Ottoman Empire"
+        ],
+        "Loser": [
+          "Habsburg Empire"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Grand Vizier Sinan Pasha invaded Hungary to avenge the Ottoman defeat at Sissek (20 June), taking a large force which laid siege to the Imperial fortress of Veszprem, southwest of Buda. Although the town fell after just three days, the approach of winter ended Sinan\u2019s campaign and his elite Janissary infantry insisted on returning to Belgrade."
+        ],
+        "id": "41386cc9-d29d-45b1-ab39-02060abd8182",
+        "Name_War": [
+          "Turkish-Habsburg Wars"
+        ],
+        "_version_": 1816201716677214208,
+        "_root_": "41386cc9-d29d-45b1-ab39-02060abd8182"
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+    "add-field-type": [
+        {
+            "name": "text_insensitive",
+            "class": "solr.TextField",
+            "indexAnalyzer": {
+           
+                "tokenizer": { "class": "solr.StandardTokenizerFactory" },
+                "filters": [
+                    { "class": "solr.LowerCaseFilterFactory" },
+                    { "class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": "false" },
+                    { "class": "solr.EnglishPossessiveFilterFactory" },
+                    { "class": "solr.SnowballPorterFilterFactory", "language": "English" },
+                    { "class": "solr.PhoneticFilterFactory", "encoder": "DoubleMetaphone" },
+                    { "class": "solr.StopFilterFactory", "words": "stopwords.txt"},
+                    { "class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "ignoreCase":"true", "expand":"false"}
+
+
+                ]
+            },
+            "queryAnalyzer": {
+                "tokenizer": { "class": "solr.StandardTokenizerFactory" },
+                "filters": [
+                    { "class": "solr.LowerCaseFilterFactory" },
+                    { "class": "solr.ASCIIFoldingFilterFactory", "preserveOriginal": "false" },
+                    { "class": "solr.EnglishPossessiveFilterFactory" },
+                    { "class": "solr.SnowballPorterFilterFactory", "language": "English" },
+                    { "class": "solr.PhoneticFilterFactory", "encoder": "DoubleMetaphone" },
+                    { "class": "solr.StopFilterFactory", "words": "stopwords.txt"},
+                    { "class":"solr.SynonymGraphFilterFactory", "synonyms":"synonyms.txt", "ignoreCase":"true", "expand":"false" }
+
+                ]
+            }
+        },
+        {
+            "name": "battleVector",
+            "class": "solr.DenseVectorField",
+            "vectorDimension": 384,
+            "similarityFunction": "cosine",
+            "knnAlgorithm": "hnsw"
+        }
+
+    ],
+    "add-field": [
+        {
+            "name": "ID",
+            "type": "string",
+            "indexed": true,
+            "stored": true,
+            "required": true
+        },
+        {
+            "name": "Country",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Latitude",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Longitude",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Name",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Year",
+            "type": "pint",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Participants",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Winner",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Loser",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Theatre",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Massacre",
+            "type": "text_insensitive", 
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Description",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Name_War",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Lehmann_Zhukov_Scale",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Alternative_Sources_Consulted",
+            "type": "text_insensitive",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "vector",
+            "type": "battleVector",
+            "indexed": true,
+            "stored": true
+        }
+
+    ]
+}

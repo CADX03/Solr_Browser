@@ -1,0 +1,837 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1,
+    "params": {
+      "json": "{\"query\": \"Massacres in (Germany OR United States)\", \"params\": {\"fl\": \"*,score\", \"q.op\": \"AND\", \"start\": 0, \"rows\": 30, \"defType\": \"edismax\", \"qf\": \"Description^5 Participants^4 Country^3 Name_War^2 Winner\"}}"
+    }
+  },
+  "response": {
+    "numFound": 52,
+    "start": 0,
+    "maxScore": 33.38835,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": "Bad Axe1832",
+        "Country": "United States",
+        "Latitude": 43.520264,
+        "Longitude": -91.23111,
+        "Name": "Bad Axe",
+        "Year": 1832,
+        "Participants": [
+          "['Mississippi', 'Victory', 'Wisconsin']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sauk Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Bad Axe Massacre was a massacre of Sauk (Sac) and Meskwaki (Fox) Native Americans by United States Army regulars and militia that occurred on August 1\u20132, 1832. This final scene of the Black Hawk War took place near present-day Victory, Wisconsin, in the United States. It marked the end of the war between white settlers and militia in Illinois and Michigan Territory, and the Sauk and Fox tribes under warrior Black Hawk.",
+        "id": "5f80f523-59b7-43ea-b4ba-47ad70ca3276",
+        "Name_War": "['Indian War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282374849167361,
+        "_root_": "5f80f523-59b7-43ea-b4ba-47ad70ca3276",
+        "score": 33.38835
+      },
+      {
+        "ID": "Little Egg Harbor",
+        "Country": "United States",
+        "Latitude": 39.632206,
+        "Longitude": -74.33595,
+        "Name": "Little Egg Harbor",
+        "Year": 1778,
+        "Participants": [
+          "['United Kingdom', 'United States']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Affair at Little Egg Harbor took place on October 15, 1778, in southern New Jersey during the American Revolutionary War. American Loyalists killed 45 Patriot men, bayonetting them as they slept. The massacre took place about one week after the Battle of Chestnut Neck, a British raid aimed at suppressing privateers who used the area as a base to harass and seize British ships and their cargoes.",
+        "id": "8161d2f7-177e-4268-b0ae-4a680fb91cd4",
+        "Name_War": "War of the American Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375564296198,
+        "_root_": "8161d2f7-177e-4268-b0ae-4a680fb91cd4",
+        "score": 29.318384
+      },
+      {
+        "ID": "Sappa Creek1875",
+        "Country": "United States",
+        "Latitude": 39.257793,
+        "Longitude": -101.95866,
+        "Name": "Sappa Creek",
+        "Year": 1875,
+        "Participants": [
+          "['Cheyenne Indians', 'United States']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Cheyenne Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "In the bloodiest action of the campaign, cavalry under Lieutenant Austin Henley pursued a band of Cheyenne to the Sappa Creek in north-western Kansas (known to the Cheyenne as Dark Water Creek). Thirty escaped, but Henley\u2019s men shot down 19 warriors (including Chief Little Bull) and eight women and children, while two soldiers were also killed. The massacre ended the war.",
+        "id": "c53be309-5b03-45ed-a96e-b1c52b2caa77",
+        "Name_War": "Red River Indian War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p271"
+        ],
+        "_version_": 1816282375829585923,
+        "_root_": "c53be309-5b03-45ed-a96e-b1c52b2caa77",
+        "score": 27.33662
+      },
+      {
+        "ID": "Santa Isabel, Sonora1916",
+        "Country": "Mexico",
+        "Latitude": 29.119148,
+        "Longitude": -110.98696,
+        "Name": "Santa Isabel, Sonora",
+        "Year": 1916,
+        "Participants": [
+          "['American', 'Santa', 'Santa Isabel', 'Sonora', 'the United States']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "With rebel leader Francisco (Pancho) Villa isolated after the Mexican Revolution, his ally Colonel Pablo L\u00f3pez ambushed a train at Santa Isabel in Sonora, murdering American mining engineer Charles R. Watson and 16 others. L\u00f3pez (later executed by government forces) claimed the massacre was ordered by Villa, who raided into the United States two months later at Columbus.",
+        "id": "3f52be22-d2b8-4802-b0f0-5577cf302c7a",
+        "Name_War": "Villa's Raids",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375825391617,
+        "_root_": "3f52be22-d2b8-4802-b0f0-5577cf302c7a",
+        "score": 26.686743
+      },
+      {
+        "ID": "Frenchtown1813",
+        "Country": "United States",
+        "Latitude": 41.918835,
+        "Longitude": -83.42286,
+        "Name": "Frenchtown",
+        "Year": 1813,
+        "Participants": [
+          "['American', 'British', 'Detroit', 'Indians', 'Michigan']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battles of Frenchtown, also known as the Battle of the River Raisin and the River Raisin Massacre, were a series of conflicts in Michigan Territory that took place from January 18\u201323, 1813, during the War of 1812. It was fought between the United States of America and a joint force of British and Native Americans near the River Raisin in Frenchtown (present-day Monroe, Michigan).",
+        "id": "fe999c6f-25b7-4f8d-9e6c-09d393e73e18",
+        "Name_War": "War of 1812",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p570"
+        ],
+        "_version_": 1816282375335706633,
+        "_root_": "fe999c6f-25b7-4f8d-9e6c-09d393e73e18",
+        "score": 25.650385
+      },
+      {
+        "ID": "Fort Dearborn1812",
+        "Country": "United States",
+        "Latitude": 41.88805,
+        "Longitude": -87.62697,
+        "Name": "Fort Dearborn",
+        "Year": 1812,
+        "Participants": [
+          "['American', 'British', 'Chicago', 'Detroit']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "The Battle of Fort Dearborn (sometimes called the Fort Dearborn Massacre) was an engagement between United States troops and Potawatomi Native Americans that occurred on August 15, 1812, near Fort Dearborn in what is now Chicago, Illinois (at that time, part of the Illinois Territory). The battle, which occurred during the War of 1812, followed the evacuation of the fort as ordered by the commander of the United States Army of the Northwest, William Hull. The battle lasted about 15 minutes and resulted in a complete victory for the Native Americans. After the battle, Fort Dearborn was burned down. Some of the soldiers and settlers who had been taken captive were later ransomed.",
+        "id": "01a4412b-2fa0-4376-bcbb-dd68fac9c42f",
+        "Name_War": "War of 1812",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p568"
+        ],
+        "_version_": 1816282375319977990,
+        "_root_": "01a4412b-2fa0-4376-bcbb-dd68fac9c42f",
+        "score": 25.16194
+      },
+      {
+        "ID": "Ash Hollow1855",
+        "Country": "United States",
+        "Latitude": 41.24693,
+        "Longitude": -102.19783,
+        "Name": "Ash Hollow",
+        "Year": 1855,
+        "Participants": [
+          "['Fort Laramie', 'Fort Leavenworth', 'Indian', 'Nebraska']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sioux"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battle of Ash Hollow, also known as the Battle of Blue Water Creek or the Harney Massacre, was an engagement of the First Sioux War, fought on September 2 and 3, 1855, between United States Army soldiers under Brig. Gen. William S. Harney and a band of the Brul\u00e9 Lakota along the Platte River in present-day Garden County, Nebraska. In the 20th century, the town of Lewellen, Nebraska, was developed here as a railroad stop.",
+        "id": "8239f8b5-54f8-4f30-ade6-03d740e3d99f",
+        "Name_War": "Sioux Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p601"
+        ],
+        "_version_": 1816282374808272897,
+        "_root_": "8239f8b5-54f8-4f30-ade6-03d740e3d99f",
+        "score": 23.946642
+      },
+      {
+        "ID": "Balangiga1900",
+        "Country": "Philippines",
+        "Latitude": 11.209217,
+        "Longitude": 125.36857,
+        "Name": "Balangiga",
+        "Year": 1900,
+        "Participants": [
+          "['American', 'Balangiga', 'Samar']"
+        ],
+        "Winner": [
+          "Philippines"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "The Balangiga massacre was an incident in which the residents of the town of Balangiga on the island of Samar conducted a surprise attack on an occupying unit of the US 9th Infantry, killing 54. The incident is also known as the Balangiga encounter, Balangiga incident, or Balangiga conflict. The incident occurred on September 28, 1901, over five months after the April 19 publication of a \"Peace Manifesto\" by Emilio Aguinaldo acknowledging and accepting the sovereignty of the United States throughout the Philippines. Some Filipino historians have asserted that the term Balangiga Massacre more appropriately refers to actions ordered in retaliation by American General Jacob H. Smith  during the pacification of Samar that resulted in an estimated 2,000 Filipino civilians killed and over 200 homes burned.",
+        "id": "07d6085b-a9fa-46b5-950f-3397c419ca88",
+        "Name_War": "Philippine-American War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282374863847427,
+        "_root_": "07d6085b-a9fa-46b5-950f-3397c419ca88",
+        "score": 23.058527
+      },
+      {
+        "ID": "Wisconsin Heights1832",
+        "Country": "United States",
+        "Latitude": 43.151485,
+        "Longitude": -89.81654,
+        "Name": "Wisconsin Heights",
+        "Year": 1832,
+        "Participants": [
+          "['Wisconsin', 'Wisconsin Heights']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sauk Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Wisconsin Heights was the penultimate engagement of the 1832 Black Hawk War, fought between the United States state militia and allies, and the Sauk and Fox tribes, led by Black Hawk. The battle took place in what is now Dane County, near present-day Sauk City, Wisconsin. Despite being vastly outnumbered and sustaining heavy casualties, Black Hawk's warriors managed to delay the combined government forces long enough to allow the majority of the Sauk and Fox civilians in the group to escape across the Wisconsin River. This reprieve was temporary; when the militia finally caught up with the fleeing band it resulted in the Bad Axe massacre at the mouth of the Bad Axe River.",
+        "id": "ab4eebc1-a3c2-4565-9cd8-6f7cbd736324",
+        "Name_War": "Black Hawk War",
+        "_version_": 1816282375992115206,
+        "_root_": "ab4eebc1-a3c2-4565-9cd8-6f7cbd736324",
+        "score": 22.498878
+      },
+      {
+        "ID": "Bear River1863",
+        "Country": "United States",
+        "Latitude": 42.140785,
+        "Longitude": -111.91339,
+        "Name": "Bear River",
+        "Year": 1863,
+        "Participants": [
+          "['California', 'Idaho', 'Preston', 'Shoshoni', 'Utah']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Shoshone Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massaccre",
+        "Description": "The Bear River Massacre, or the Engagement on the Bear River, or the Battle of Bear River, or Massacre at Boa Ogoi, took place in present-day Franklin County, Idaho, on January 29, 1863. After years of skirmishes and food raids on farms and ranches, the United States Army attacked a Shoshone encampment gathered at the confluence of the Bear River and Battle Creek in what was then southeastern Washington Territory, near the present-day city of Preston. Colonel Patrick Edward Connor led a detachment of California Volunteers as part of the Bear River Expedition against Shoshone tribal chief Bear Hunter. Hundreds of Shoshone men, women, and children were killed near their lodges; the number of Shoshone victims reported by local settlers was higher than that reported by soldiers.",
+        "id": "e9d19727-b3f1-49dc-8bc7-413256519140",
+        "Name_War": "['Indian War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p602"
+        ],
+        "_version_": 1816282374902644736,
+        "_root_": "e9d19727-b3f1-49dc-8bc7-413256519140",
+        "score": 22.22766
+      },
+      {
+        "ID": "Saltville (1st)1864",
+        "Country": "United States",
+        "Latitude": 36.881504,
+        "Longitude": -81.76206,
+        "Name": "Saltville (1st)",
+        "Year": 1864,
+        "Participants": [
+          "['Kentucky', 'Virginia']"
+        ],
+        "Winner": [
+          "Confederate States of America"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The First Battle of Saltville (October 2, 1864) was fought near the town of Saltville, Virginia, during the American Civil War. The battle over significant Confederate saltworks in town was fought by both regular and Home Guard Confederate units against regular U.S. Army troops, which included two of the few black cavalry units of the United States Colored Troops. U.S. Army Brig. Gen. Stephen G. Burbridge, then commander of U.S. forces in the Commonwealth of Kentucky, led the U.S. Army troops. Confederates murdered both black and white wounded soldiers after the battle, in what has been called the Saltville Massacre.[",
+        "id": "fe4c3857-1493-41f1-ac6b-8a0aff89b510",
+        "Name_War": "American Civil War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p288"
+        ],
+        "_version_": 1816282375812808706,
+        "_root_": "fe4c3857-1493-41f1-ac6b-8a0aff89b510",
+        "score": 21.699263
+      },
+      {
+        "ID": "Sand Creek1864",
+        "Country": "United States",
+        "Latitude": 38.328068,
+        "Longitude": -102.90361,
+        "Name": "Sand Creek",
+        "Year": 1864,
+        "Participants": [
+          "[]"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "The Sand Creek massacre (also known as the Chivington massacre, the battle of Sand Creek or the massacre of Cheyenne Indians) was a massacre of Cheyenne and Arapaho people by the U.S. Army in the American Indian Wars that occurred on November 29, 1864, when a 675-man force of the Third Colorado Cavalry under the command of U.S. Volunteers Colonel John Chivington attacked and destroyed a village of Cheyenne and Arapaho people in southeastern Colorado Territory, killing and mutilating an estimated 70 to over 600 Native American people. Chivington claimed 500 to 600 warriors were killed. However, most sources estimate around 150 people were killed, about two-thirds of whom were women and children. The location has been designated the Sand Creek Massacre National Historic Site and is administered by the National Park Service. The massacre is considered part of a series of events known as the Colorado Wars.",
+        "id": "29dba26f-bc32-46a4-abe8-e504f3dba51b",
+        "Name_War": "Cheyenne-Arapaho War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p606"
+        ],
+        "_version_": 1816282375815954433,
+        "_root_": "29dba26f-bc32-46a4-abe8-e504f3dba51b",
+        "score": 21.240314
+      },
+      {
+        "ID": "Lochreys Defeat1781",
+        "Country": "United States",
+        "Latitude": 39.024635,
+        "Longitude": -84.888115,
+        "Name": "Lochreys Defeat",
+        "Year": 1781,
+        "Participants": [
+          "['Americans', 'Illinois']"
+        ],
+        "Winner": [
+          "United Kingdom, Mohawk Indians, Iroquois Indians"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "Lochry's Defeat, also known as the Lochry massacre, was a battle fought on August 24, 1781, near present-day Aurora, Indiana, in the United States. The battle was part of the American Revolutionary War (1775\u20131783), which began as a conflict between Great Britain and the Thirteen Colonies before spreading to the western frontier, where American Indians entered the war as British allies. The battle was short and decisive: about one hundred Indians of local tribes led by Joseph Brant, a Mohawk military leader who was temporarily in the west, ambushed a similar number of Pennsylvania militiamen led by Archibald Lochry. Brant and his men killed or captured all of the Pennsylvanians without suffering any casualties.",
+        "id": "2efb8c4d-b90c-40f3-8be2-5b943b871046",
+        "Name_War": "War of the American Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p472; https://www.in.gov/history/state-historical-markers/find-a-marker/lochrys-defeat/"
+        ],
+        "_version_": 1816282375566393348,
+        "_root_": "2efb8c4d-b90c-40f3-8be2-5b943b871046",
+        "score": 19.970533
+      },
+      {
+        "ID": "Hillabee1813",
+        "Country": "United States",
+        "Latitude": 33.000687,
+        "Longitude": -85.903854,
+        "Name": "Hillabee",
+        "Year": 1813,
+        "Participants": [
+          "['Alabama', 'Hillabee village', 'Indians']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Hillabee Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "Amid revenge for the massacre at Fort Mims, Indians were slaughtered at Tallaseehatchee and Talladega in Alabama before General James White, with Tennessee Militia and some Cherokee, attacked Hillabee village, 20 miles further east. White\u2019s forces killed 68 Hillabee warriors without loss. A few days later more Indians died in the much larger massacre at Autossee.",
+        "id": "e0e4b271-6f92-4ce2-b8f5-de7ffea14eaa",
+        "Name_War": "Creek Indian War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p263"
+        ],
+        "_version_": 1816282375425884161,
+        "_root_": "e0e4b271-6f92-4ce2-b8f5-de7ffea14eaa",
+        "score": 19.900139
+      },
+      {
+        "ID": "Acomo Pueblo1598",
+        "Country": "United States",
+        "Latitude": 34.896336,
+        "Longitude": -107.591064,
+        "Name": "Acomo Pueblo",
+        "Year": 1598,
+        "Participants": [
+          "['Pueblo Indians', 'Spain']"
+        ],
+        "Winner": [
+          "Spain"
+        ],
+        "Loser": [
+          "Pueblo Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by masssacre",
+        "Description": "The \u00c1coma Massacre was a punitive expedition by Spanish conquistadors at the Acoma Pueblo in January, 1599 that resulted in the deaths of around 500 Acoma men and 300 women and children after a three-day battle. Of the Acoma who survived the attack, many were sentenced to 20-year terms of bondage, and 24 suffered amputations.[1] The massacre was the result of a battle between Spanish colonizers and Native Americans from the Keres Acoma Nation in what is now New Mexico in retaliation for the killing of 12 Spanish soldiers by the Acoma in the previous year.",
+        "id": "e8d01d23-0245-42ad-98b5-fac9833fb346",
+        "Name_War": "Spanish Conquest of New Mexico",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282374495797248,
+        "_root_": "e8d01d23-0245-42ad-98b5-fac9833fb346",
+        "score": 17.977001
+      },
+      {
+        "ID": "Norridgewock1724",
+        "Country": "United States",
+        "Latitude": 44.713078,
+        "Longitude": -69.790596,
+        "Name": "Norridgewock",
+        "Year": 1724,
+        "Participants": [
+          "['Abnaki', 'French', 'Maine', 'Massachusetts', 'Norridgewock']"
+        ],
+        "Winner": [
+          "Massachussetts"
+        ],
+        "Loser": [
+          "Abenaki"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Norridgewock was a raid on the Abenaki settlement of Norridgewock by a group of colonial militiamen from the New England Colonies. Occurring in contested lands on the edge of the American frontier, the raid resulted in a massacre of the Abenaki inhabitants of Norridgewock by the militiamen.",
+        "id": "e8a75282-4133-46d4-adeb-d4a8568e3d69",
+        "Name_War": "Dummers War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p119"
+        ],
+        "_version_": 1816282375686979591,
+        "_root_": "e8a75282-4133-46d4-adeb-d4a8568e3d69",
+        "score": 16.737103
+      },
+      {
+        "ID": "Battle Creek, Texas1838",
+        "Country": "United States",
+        "Latitude": 31.926546,
+        "Longitude": -96.63097,
+        "Name": "Battle Creek, Texas",
+        "Year": 1838,
+        "Participants": [
+          "['Battle Creek', 'Indian', 'Mexican', 'Texans', 'Texas']"
+        ],
+        "Winner": [
+          "Kickapoo Indians"
+        ],
+        "Loser": [
+          "Texas"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "In an outbreak of warfare in eastern Texas, a band of about 300 mainly Kickapoo warriors and followers under Chief Benito attacked a survey party of 23 at Richland Creek (renamed Battle Creek) near modern Dawson, northeast of Waco. Seventeen Texans were killed and five injured, and a month later the Kickapoo joined Mexican forces in the Killough Massacre.",
+        "id": "bad9dd4e-d1d3-472b-8039-eb3a58026a84",
+        "Name_War": "Kickapoo Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p265"
+        ],
+        "_version_": 1816282374897401860,
+        "_root_": "bad9dd4e-d1d3-472b-8039-eb3a58026a84",
+        "score": 16.409971
+      },
+      {
+        "ID": "Cherry Valley1778",
+        "Country": "United States",
+        "Latitude": 42.79838,
+        "Longitude": -74.75954,
+        "Name": "Cherry Valley",
+        "Year": 1778,
+        "Participants": [
+          "['British', 'Indian', 'New York']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "Following the Wyoming Massacre at the hands of British Major John Butler, his son Captain Mark Butler attacked pro-rebel settlers in the Cherry Valley, New York, on the upper Susquehanna. In a brutal assault, supported by Indian Chief Joseph Brant, the settlement was destroyed, with many killed, including women and children. Retaliation came in August 1779 at Newtown.",
+        "id": "272fea5e-0b1d-40e7-ae30-3708c92122ab",
+        "Name_War": "War of the American Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p463"
+        ],
+        "_version_": 1816282375138574336,
+        "_root_": "272fea5e-0b1d-40e7-ae30-3708c92122ab",
+        "score": 16.409971
+      },
+      {
+        "ID": "Waxhaw1780",
+        "Country": "United States",
+        "Latitude": 34.924595,
+        "Longitude": -80.7434,
+        "Name": "Waxhaw",
+        "Year": 1780,
+        "Participants": [
+          "['American', 'British', 'Buford', 'Charleston', 'North Carolina', 'Tarleton']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The  Battle of Waxhaws (also known as the Waxhaws Massacre and Buford's Massacre) was a military engagement which took place on May 29, 1780 during the American Revolutionary War between a Patriot force led by Abraham Buford and a British force led by Banastre Tarleton near Lancaster, South Carolina. Buford's men consisted of Continental Army soldiers, while Tarleton's force was mostly made up of Loyalist troops.  After the two forces sighted each other, Buford rejected an initial demand to surrender. Tarleton's cavalrymen launched a charge against the Patriot troops, which led many of Buford's men to throw their arms down in surrender. However, as Tarleton's horse had been shot from under him during the charge, pinning him underneath, his infuriated soldiers attacked their Patriot opponents, killing several.",
+        "id": "10d78b04-57f0-4209-81af-9a09ca4668ff",
+        "Name_War": "War of the American Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, 467"
+        ],
+        "_version_": 1816282375980580870,
+        "_root_": "10d78b04-57f0-4209-81af-9a09ca4668ff",
+        "score": 16.400719
+      },
+      {
+        "ID": "Mount Tambor1740",
+        "Country": "Mexico",
+        "Latitude": 19.510534,
+        "Longitude": -105.07455,
+        "Name": "Mount Tambor",
+        "Year": 1740,
+        "Participants": [
+          "['Spain', 'Yaqui']"
+        ],
+        "Winner": [
+          "Spain"
+        ],
+        "Loser": [
+          "Yaqui"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Yaqui Wars, were a series of armed conflicts between New Spain, and its successor state, the Mexican Republic, against the Yaqui Natives. The period began in 1533 and lasted until 1929. The Yaqui Wars, along with the Caste War against the Maya, were the last conflicts of the centuries long Mexican Indian Wars. Over the course of nearly 400 years, the Spanish and the Mexicans repeatedly launched military campaigns into Yaqui territory which resulted in several serious battles and massacres.",
+        "id": "f184315d-c0f7-4064-ae3c-5140deb8fb9c",
+        "Name_War": "Spanish-Yaqui War",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p300"
+        ],
+        "_version_": 1816282375652376576,
+        "_root_": "f184315d-c0f7-4064-ae3c-5140deb8fb9c",
+        "score": 16.295599
+      },
+      {
+        "ID": "Deerfield1675",
+        "Country": "United States",
+        "Latitude": 42.54456,
+        "Longitude": -72.605644,
+        "Name": "Deerfield",
+        "Year": 1675,
+        "Participants": [
+          "['Deerfield', 'Indians', 'Massachusetts']"
+        ],
+        "Winner": [
+          "Massachussetts"
+        ],
+        "Loser": [
+          "Wampanoag Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Amid a bitter war in colonial New England, Indians supporting Metacomet of the Wampanoag (King Philip) burned Deerfield, in western Massachusetts. Sent to recover the local harvest, Captain Thomas Lathrop was ambushed to the southwest and killed, along with almost all his 60 men (Bloody Brook Massacre) before Major Robert Treat arrived and drove the Indians off.",
+        "id": "c1e4c96b-3ece-401a-85bf-8e946587f460",
+        "Name_War": "['Philips War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p66"
+        ],
+        "_version_": 1816282375236091908,
+        "_root_": "c1e4c96b-3ece-401a-85bf-8e946587f460",
+        "score": 16.288975
+      },
+      {
+        "ID": "Pamunkey1625",
+        "Country": "United States",
+        "Latitude": 37.569477,
+        "Longitude": -77.00462,
+        "Name": "Pamunkey",
+        "Year": 1625,
+        "Participants": [
+          "['English', 'Indian', 'Powhatan', 'Virginia']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "English settlers in Virginia under Governor Sir Francis Wyatt responded to the massacre at Jamestown (March 1622) with a bloody war against the Algonquin confederation, led by Opechancanough. Under the pretense of making peace, the settlers fell on the Indian village at nearby Pamunkey, reportedly killing 1,000. With both sides exhausted a peace treaty was signed in 1632.",
+        "id": "e54c89d2-9849-4d67-a5b2-bc540c82ca67",
+        "Name_War": "Powhatan Indian Wars",
+        "_version_": 1816282375718436876,
+        "_root_": "e54c89d2-9849-4d67-a5b2-bc540c82ca67",
+        "score": 16.288975
+      },
+      {
+        "ID": "Salado1842",
+        "Country": "United States",
+        "Latitude": 30.947128,
+        "Longitude": -97.53862,
+        "Name": "Salado",
+        "Year": 1842,
+        "Participants": [
+          "['American', 'Mexican', 'Mexicans', 'San Antonio', 'Texan', 'Texans']"
+        ],
+        "Winner": [
+          "Texan Rebels"
+        ],
+        "Loser": [
+          "Mexico"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Having occupied San Antonio, Mexican General Adrian Woll was lured out to attack 200 appoaching Texans under Colonel Mathew Caldwell in camp seven miles to the northeast at the Salado. When 800 charging Mexicans were driven off with about 120 casualties, Woll withdrew to San Antonio, though a small American force was destroyed in Dawson\u2019s Massacre.",
+        "id": "8ee1bdc9-eb03-4e03-b5ba-9117dfec3f80",
+        "Name_War": "Texan Wars of Independence",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p247"
+        ],
+        "_version_": 1816282375807565826,
+        "_root_": "8ee1bdc9-eb03-4e03-b5ba-9117dfec3f80",
+        "score": 16.288975
+      },
+      {
+        "ID": "Soldier Spring1868",
+        "Country": "United States",
+        "Latitude": 34.91377,
+        "Longitude": -99.13114,
+        "Name": "Soldier Spring",
+        "Year": 1868,
+        "Participants": [
+          "['Canadian', 'Fort', 'Indian', 'Oklahoma', 'Washita']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Comanche Indians, Kiowa Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "A month after the massacre at the Washita, another army column under Major Andrew Evans attacked a Comanche-Kiowa camp about 30 miles further south at Soldier Spring, near the Wichita Mountains in the west of modern Oklahoma. The camp was destroyed and shortly afterwards a Comanche-Kiowa reservation was established in Indian Territory near Fort Sills.",
+        "id": "748a8d52-c5e8-4132-980f-8fae6eb06c2d",
+        "Name_War": "Canadian River Expedition",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "1"
+        ],
+        "_version_": 1816282375868383243,
+        "_root_": "748a8d52-c5e8-4132-980f-8fae6eb06c2d",
+        "score": 16.288975
+      },
+      {
+        "ID": "Etchoe1761",
+        "Country": "United States",
+        "Latitude": 35.179768,
+        "Longitude": -83.41617,
+        "Name": "Etchoe",
+        "Year": 1761,
+        "Participants": [
+          "['Charleston', 'Etchoe', 'Indian', 'North Carolina']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "Cherokee Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Following the Fort Loudoun massacre by Cherokee Chief Oconostota, General Jeffrey Amherst in Charleston eventually sent 2,600 regulars and local militia into North Carolina under Colonel James Grant. He won a hard-fought action on the Little Tennessee near Etchoe (modern Franklin), site of battle the previous year, and the Cherokee soon sued for peace.",
+        "id": "b1abf2f8-8ce3-4e58-9d38-582912c84a97",
+        "Name_War": "Cherokee Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p122"
+        ],
+        "_version_": 1816282375300055046,
+        "_root_": "b1abf2f8-8ce3-4e58-9d38-582912c84a97",
+        "score": 16.194197
+      },
+      {
+        "ID": "Marias1870",
+        "Country": "United States",
+        "Latitude": 48.167667,
+        "Longitude": -111.74246,
+        "Name": "Marias",
+        "Year": 1870,
+        "Participants": [
+          "['Indian', 'Montana', 'Piegan']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "Colonel Eugene Baker was sent to the Marias River in northern Montana against hostile Piegan under Mountain Chief, but instead he attacked the nearby camp of the friendly Chief Heavy Runner. In a dawn massacre in extreme cold, Heavy Runner and 172 other Piegan were killed, including many women and children. About 140 more were captured, along with over 300 horses.",
+        "id": "db1e319e-56e5-4b43-9b9e-862903f05748",
+        "Name_War": "Piegan Indian Expedition",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p608"
+        ],
+        "_version_": 1816282375600996356,
+        "_root_": "db1e319e-56e5-4b43-9b9e-862903f05748",
+        "score": 16.131664
+      },
+      {
+        "ID": "Trail Ridge1866",
+        "Country": "United States",
+        "Latitude": 41.296364,
+        "Longitude": -98.280655,
+        "Name": "Trail Ridge",
+        "Year": 1866,
+        "Participants": [
+          "['Indians', 'Ogala']"
+        ],
+        "Winner": [
+          "Ogala Sioux"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "With Colonel Henry Carrington pursuing Ogala Sioux Indians under High Back Bone and Yellow Eagle northwest of Fort Phil Kearney, Wyoming, part of his force under Lieutenant Horatio Bingham was lured into ambush on Lodge Trail Ridge. Bingham and a sergeant were killed with five others wounded in a foretaste of the Fetterman Massacre two weeks later.",
+        "id": "b2773069-de56-446c-80de-3bdf396b0818",
+        "Name_War": "Red Clouds War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375566393352,
+        "_root_": "b2773069-de56-446c-80de-3bdf396b0818",
+        "score": 16.047533
+      },
+      {
+        "ID": "Massacre Canyon1873",
+        "Country": "United States",
+        "Latitude": 40.20636,
+        "Longitude": -100.966995,
+        "Name": "Massacre Canyon",
+        "Year": 1873,
+        "Participants": [
+          "['Brule', 'Indian', 'Nebraska', 'Trenton']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "While hunting buffalo in southwest Nebraska under the protection of Fort McPherson, about 350 peaceful Pawnee were unexpectedly attacked near modern Trenton by a large war party of Brul\u00e9 and Oglala Sioux under Chief Snow Flake. Army help arrived too late and up to 100 Pawnee were slaughtered, including Sky Chief. The site was later known as Massacre Canyon.",
+        "id": "6963d70c-7044-40ce-9db3-9e71c0fd9121",
+        "Name_War": "Sioux Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p260"
+        ],
+        "_version_": 1816282375606239235,
+        "_root_": "6963d70c-7044-40ce-9db3-9e71c0fd9121",
+        "score": 16.047533
+      },
+      {
+        "ID": "Lost Valley, Texas1874",
+        "Country": "United States",
+        "Latitude": 33.264126,
+        "Longitude": -98.15017,
+        "Name": "Lost Valley, Texas",
+        "Year": 1874,
+        "Participants": [
+          "['Jacksboro', 'Texas', 'Valley']"
+        ],
+        "Winner": [
+          "Kiowa Indians"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Kiowa Chief Lone Wolf seeking revenge for his son and nephew killed at Adobe Walls, ambushed Major John B. Jones and 25 men of the Texas Rangers\u2019 Frontier Battalion at Lost Valley, near Jacksboro, Texas, close to the site of the Salt Creek Massacre. The green Rangers lost two killed and several wounded in a sharp action before the Indians withdrew at nightfall.",
+        "id": "dabb012e-cedc-4d1c-b24b-4dc3f0608f1d",
+        "Name_War": "Red River Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375571636231,
+        "_root_": "dabb012e-cedc-4d1c-b24b-4dc3f0608f1d",
+        "score": 15.765026
+      },
+      {
+        "ID": "New Ulm1862",
+        "Country": "United States",
+        "Latitude": 44.31706,
+        "Longitude": -94.49756,
+        "Name": "New Ulm",
+        "Year": 1862,
+        "Participants": [
+          "['German', 'Indians', 'Minnesota']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sioux Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battles of New Ulm, also known as the New Ulm Massacre, were two battles in August 1862 between Dakota men and European settlers and militia in New Ulm, Minnesota early in the Dakota War of 1862. Dakota forces attacked New Ulm on August 19 and again on August 23, destroying much of the town but failing to fully capture it. After the second attack, New Ulm was evacuated.",
+        "id": "4eb663eb-ba23-4504-9175-76ab0ece4863",
+        "Name_War": "Sioux Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p605"
+        ],
+        "_version_": 1816282375678590982,
+        "_root_": "4eb663eb-ba23-4504-9175-76ab0ece4863",
+        "score": 15.613278
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "query": "(USSR OR Russia OR Soviet) AND \"World War II\"",
+    "params": {
+        "defType": "edismax",
+        "qf": "Description^5 Participants^4 Country^3 Name_War^2 Winner",
+        "start": 0,
+        "rows": 30,
+        "fl": "*,score"
+    }
+}

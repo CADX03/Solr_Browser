@@ -1,0 +1,802 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 2,
+    "params": {
+      "json": "{\"query\": \"Crusade\", \"params\": {\"q.op\": \"AND\", \"fl\": \"*,score\", \"start\": 0, \"rows\": 30, \"defType\": \"edismax\", \"qf\": \"Description^5 Participants^4 Country^3 Name_War^2 Winner\"}}"
+    }
+  },
+  "response": {
+    "numFound": 80,
+    "start": 0,
+    "maxScore": 20.3261,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": "Gaza1239",
+        "Country": "West Bank and Gaza",
+        "Latitude": 31.354677,
+        "Longitude": 34.308826,
+        "Name": "Gaza",
+        "Year": 1239,
+        "Participants": [
+          "['French', 'Gaza', 'Muslim', 'Palestine']"
+        ],
+        "Winner": [
+          "Ayyubids"
+        ],
+        "Loser": [
+          "County of Bari"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Barons' Crusade (1239\u20131241), also called the Crusade of 1239, was a crusade to the Holy Land that, in territorial terms, was the most successful crusade since the First Crusade. Called by Pope Gregory IX, the Barons' Crusade broadly embodied the highest point of papal endeavor \"to make crusading a universal Christian undertaking.\" Gregory IX called for a crusade in France, England, and Hungary with different degrees of success. Although the crusaders did not achieve any glorious military victories, they used diplomacy to successfully play the two warring factions of the Ayyubid dynasty (as-Salih Ismail in Damascus and as-Salih Ayyub in Egypt) against one another for even more concessions than Frederick II had gained during the more well-known Sixth Crusade. For a few years, the Barons' Crusade returned the Kingdom of Jerusalem to its largest size since 1187.",
+        "id": "d4f6bb09-4359-4357-a03e-35ebad2f1f56",
+        "Name_War": "Later Crusader-Muslim Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Hutchinson's Dictionary of Ancient and Medieval Warfare, \"Gaza, Battle of\". Different year given for battle"
+        ],
+        "_version_": 1816257015188553733,
+        "_root_": "d4f6bb09-4359-4357-a03e-35ebad2f1f56",
+        "score": 20.3261
+      },
+      {
+        "ID": "Civetot1096",
+        "Country": "Turkey",
+        "Latitude": 40.777706,
+        "Longitude": 29.290209,
+        "Name": "Civetot",
+        "Year": 1096,
+        "Participants": [
+          "['Civetot', 'German', 'Turks']"
+        ],
+        "Winner": [
+          "Seljuks"
+        ],
+        "Loser": [
+          "People's Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battle of Civetot was fought between the forces of the People's Crusade and of the Seljuk Turks of Anatolia on 21 October 1096. The battle brought an end to the People's Crusade, before the Princes' Crusade.",
+        "id": "30b6dba3-2759-4a2a-a4dd-d03123d67bb0",
+        "Name_War": "1st Crusade",
+        "Alternative_Sources_Consulted": [
+          "https://www.hurriyetdailynews.com/lost-byzantine-castle-found-under-water-147996"
+        ],
+        "_version_": 1816257014954721281,
+        "_root_": "30b6dba3-2759-4a2a-a4dd-d03123d67bb0",
+        "score": 19.81657
+      },
+      {
+        "ID": "Damascus1148",
+        "Country": "Syria",
+        "Latitude": 33.51381,
+        "Longitude": 36.276527,
+        "Name": "Damascus",
+        "Year": 1148,
+        "Participants": [
+          "['France', 'Germany']"
+        ],
+        "Winner": [
+          "Muslim Caliphate"
+        ],
+        "Loser": [
+          "Holy Roman Empire, France, Jerusalem"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The siege of Damascus took place between 24 and 28 July 1148, during the Second Crusade. It ended in a crusader defeat and led to the disintegration of the crusade. The two main Christian forces that marched to the Holy Land in response to Pope Eugene III and Bernard of Clairvaux's call for the Second Crusade were led by Kings Louis VII of France and Conrad III of Germany. Both faced disastrous marches across Anatolia in the months that followed, with most of their armies being destroyed. The original focus of the crusade was Edessa (Urfa), but in Jerusalem, the preferred target of King Baldwin III and the Knights Templar was Damascus. At the Council of Acre, magnates from France, Germany, and the Kingdom of Jerusalem decided to divert the crusade to Damascus.",
+        "id": "a0487917-e751-4619-bfd6-a06b04a28e98",
+        "Name_War": "2nd Crusade",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p218"
+        ],
+        "_version_": 1816257015028121603,
+        "_root_": "a0487917-e751-4619-bfd6-a06b04a28e98",
+        "score": 17.984005
+      },
+      {
+        "ID": "Domazlice1431",
+        "Country": "Czechia",
+        "Latitude": 49.4397,
+        "Longitude": 12.931144,
+        "Name": "Domazlice",
+        "Year": 1431,
+        "Participants": [
+          "['Bohemia', 'German', 'Germans', 'Hussite', 'Pilsen', 'Polish']"
+        ],
+        "Winner": [
+          "Polish Hussites"
+        ],
+        "Loser": [
+          "German Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Doma\u017elice (Czech: Bitva u Doma\u017elic) or Battle of Taus (German: Schlacht bei Taus) or Battle of Tausch was fought on 14 August 1431 as the part of the 5th crusade against Hussites. The crusade was sent to Bohemia after negotiations, held in Pressburg and Cheb, between Hussites and the emperor Sigismund had failed.",
+        "id": "36ac369e-8c77-4843-93bf-cf1dba287be4",
+        "Name_War": "Hussite Wars",
+        "_version_": 1816257015064821763,
+        "_root_": "36ac369e-8c77-4843-93bf-cf1dba287be4",
+        "score": 16.544971
+      },
+      {
+        "ID": "Ashmoun Canal1221",
+        "Country": "Egypt",
+        "Latitude": 30.294542,
+        "Longitude": 30.97822,
+        "Name": "Ashmoun Canal",
+        "Year": 1221,
+        "Participants": [
+          "['Damietta']"
+        ],
+        "Winner": [
+          "Ayyubid Egypt"
+        ],
+        "Loser": [
+          "Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Having captured Damietta at the eastern mouth of the Nile in late 1219, Franks of the Fifth Crusade, under Papal Legate Cardinal Pelagius, attempting to march on Ayubbid Cairo, were heavily defeated at the Ashmoun Canal. Cut off from Damietta as the Nile flooded, they sued for peace. After being forced into surrender, the Crusade was abandoned, having achieved nothing.",
+        "id": "3d81d7ca-d998-4dd8-be41-54d867ff5fd3",
+        "Name_War": "5th Crusade",
+        "_version_": 1816257014616031233,
+        "_root_": "3d81d7ca-d998-4dd8-be41-54d867ff5fd3",
+        "score": 16.271072
+      },
+      {
+        "ID": "Wieselburg1096",
+        "Country": "Austria",
+        "Latitude": 48.1286,
+        "Longitude": 15.138627,
+        "Name": "Wieselburg",
+        "Year": 1096,
+        "Participants": [
+          "['Amstetten', 'Austria', 'European', 'Hungarian', 'Hungary', 'Jews']"
+        ],
+        "Winner": [
+          "Hungary"
+        ],
+        "Loser": [
+          "Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "With European forces gathering for the First Crusade, Count Emich of Leisengen led a large force east from the Rhine, attacking Jews on the way. Refused passage through Hungary by King Coloman, the Crusaders besieged the fortress of Wieselburg, east of Amstetten in Austria, where they were destroyed in full battle by Hungarian troops. Some of the survivors later joined the main Crusade.",
+        "id": "dcf63a8b-b66e-4814-b497-013884a79238",
+        "Name_War": "1st Crusade",
+        "_version_": 1816257015915216896,
+        "_root_": "dcf63a8b-b66e-4814-b497-013884a79238",
+        "score": 16.271072
+      },
+      {
+        "ID": "Beziers1209",
+        "Country": "France",
+        "Latitude": 43.344234,
+        "Longitude": 3.215795,
+        "Name": "Beziers",
+        "Year": 1209,
+        "Participants": [
+          "['Albigensian', 'Crusade', 'France']"
+        ],
+        "Winner": [
+          "Crusaders"
+        ],
+        "Loser": [
+          "Albigensians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "When Pope Innocent III proclaimed a Crusade against Albigensian heretics in southern France, the warrior Arnaud Amalric attacked the city of Beziers, defended by Raymond Roger Viscount of Beziers and Carcassonne. A major counter-attack by the garrison was routed, and the city fell, followed by large-scale massacre of the population. The Viscount then fled to Carcassonne.",
+        "id": "438bf9f1-fdfd-40b6-8541-1ddba2fa6511",
+        "Name_War": "Albigensian Crusade",
+        "_version_": 1816257014758637569,
+        "_root_": "438bf9f1-fdfd-40b6-8541-1ddba2fa6511",
+        "score": 15.55421
+      },
+      {
+        "ID": "Freteval1194",
+        "Country": "France",
+        "Latitude": 47.889458,
+        "Longitude": 1.208877,
+        "Name": "Freteval",
+        "Year": 1194,
+        "Participants": [
+          "['Crusades', 'England', 'France']"
+        ],
+        "Winner": [
+          "England"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Fr\u00e9teval, which took place on 3 July 1194, was a medieval battle, part of the ongoing fighting between Richard the Lionheart and Philip II of France that lasted from 1193 to Richard's death in April 1199. During the battle, the Anglo-Norman and Angevin forces ambushed the French army, which was defeated. Philip managed to flee but lost his archives which were captured by Richard. After the battle, Philip decided to keep them in Paris, which led to the creation of the French national library, the Archives Nationales.",
+        "id": "01b3f6f2-a160-4902-bb2b-fb36b5af5752",
+        "Name_War": "French War of Richard I",
+        "_version_": 1816257015159193601,
+        "_root_": "01b3f6f2-a160-4902-bb2b-fb36b5af5752",
+        "score": 15.55421
+      },
+      {
+        "ID": "Gisors1198",
+        "Country": "France",
+        "Latitude": 49.279774,
+        "Longitude": 1.776579,
+        "Name": "Gisors",
+        "Year": 1198,
+        "Participants": [
+          "['Beauvais', 'Chalus', 'Crusades', 'French']"
+        ],
+        "Winner": [
+          "England"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Gisors (27 September 1198) was a skirmish fought in Courcelles-l\u00e8s-Gisors, Oise, Picardy, part of the ongoing fighting between Richard I of England and Philip Augustus of France that lasted from 1194 to Richard's death in April 1199. The earlier conflict restarted after the truce between the two kings expired (just long enough to see the harvest in, according to the chronicler Roger of Hoveden). Both kings invaded and pillaged the other's territory, causing great suffering to the local population by having their captives' eyes put out.",
+        "id": "f8d97b63-87a4-4bd5-9a49-4c3da3c0e9f3",
+        "Name_War": "French War of Richard I",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p195"
+        ],
+        "_version_": 1816257015204282369,
+        "_root_": "f8d97b63-87a4-4bd5-9a49-4c3da3c0e9f3",
+        "score": 14.033954
+      },
+      {
+        "ID": "Manzikert1071",
+        "Country": "Turkey",
+        "Latitude": 39.146145,
+        "Longitude": 42.54096,
+        "Name": "Manzikert",
+        "Year": 1071,
+        "Participants": [
+          "['Anatolia', 'Armenia', 'Crusades', 'Turkish']"
+        ],
+        "Winner": [
+          "Seljuk Turks"
+        ],
+        "Loser": [
+          "Byzantium"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Manzikert or Malazgirt was fought between the Byzantine Empire and the Seljuk Empire on 26 August 1071 near Manzikert, theme of Iberia (modern Malazgirt in Mu\u015f Province, Turkey). The decisive defeat of the Byzantine army and the capture of the Emperor Romanos IV Diogenes played an important role in undermining Byzantine authority in Anatolia and Armenia, and allowed for the gradual Turkification of Anatolia. Many Turks, travelling westward during the 11th century, saw the victory at Manzikert as an entrance to Asia Minor.",
+        "id": "edb1c294-aaac-4763-bc7d-0afd5155c020",
+        "Name_War": "Byzantine Turkish Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p209"
+        ],
+        "_version_": 1816257015429726212,
+        "_root_": "edb1c294-aaac-4763-bc7d-0afd5155c020",
+        "score": 14.033954
+      },
+      {
+        "ID": "Aussig1426",
+        "Country": "Czechia",
+        "Latitude": 50.661118,
+        "Longitude": 14.053145,
+        "Name": "Aussig",
+        "Year": 1426,
+        "Participants": [
+          "['Bohemia', 'Catholic', 'Czech Republic', 'Germans', 'Moravia']"
+        ],
+        "Winner": [
+          "Hussites"
+        ],
+        "Loser": [
+          "German Catholic Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Aussig (German: Schlacht bei Aussig) was fought on 16 June 1426, between Roman Catholic crusaders and the Hussites during the Fourth Crusade of the Hussite Wars. It was fought near Aussig (\u00dast\u00ed nad Labem) in northern Bohemia.",
+        "id": "ebcafb85-8174-4e0b-ad90-d56bcf0e8d25",
+        "Name_War": "Hussite Wars",
+        "_version_": 1816257014639099904,
+        "_root_": "ebcafb85-8174-4e0b-ad90-d56bcf0e8d25",
+        "score": 13.779481
+      },
+      {
+        "ID": "Heraclea, Anatolia1101",
+        "Country": "Turkey",
+        "Latitude": 41.27694,
+        "Longitude": 31.42026,
+        "Name": "Heraclea, Anatolia",
+        "Year": 1101,
+        "Participants": [
+          "['Anatolia', 'Bulgaria', 'Byzantine', 'Muslim', 'Tyana']"
+        ],
+        "Winner": [
+          "Sultanate of Rum, Sebastea"
+        ],
+        "Loser": [
+          "Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The battles of Heraclea were a series of battles fought during the Crusade of 1101 between Crusaders led by William II, Count of Nevers and the Sultanate of Rum led by Kilij Arslan I. Both battles resulted in a Turkish victory.",
+        "id": "2ca99de6-6ff5-459b-b5c6-7b7b7be9816d",
+        "Name_War": "Crusader-Muslim Wars",
+        "_version_": 1816257015261954054,
+        "_root_": "2ca99de6-6ff5-459b-b5c6-7b7b7be9816d",
+        "score": 13.779481
+      },
+      {
+        "ID": "Heraclea, Anatolia (2nd)1101",
+        "Country": "Turkey",
+        "Latitude": 41.279907,
+        "Longitude": 31.42026,
+        "Name": "Heraclea, Anatolia (2nd)",
+        "Year": 1101,
+        "Participants": [
+          "['Anatolia', 'Christian', 'Crusader-Muslim', 'Heraclea', 'Sebastea', 'Vermandois']"
+        ],
+        "Winner": [
+          "Sultanate of Rum, Sebastia"
+        ],
+        "Loser": [
+          "Acquataine, Vermandois"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The battles of Heraclea were a series of battles fought during the Crusade of 1101 between Crusaders led by William II, Count of Nevers and the Sultanate of Rum led by Kilij Arslan I. Both battles resulted in a Turkish victory.",
+        "id": "94007cac-5254-4d96-8827-d02d614bd7fa",
+        "Name_War": "Crusader-Muslim Wars",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p216. Only Crusader numbers are given"
+        ],
+        "_version_": 1816257015261954055,
+        "_root_": "94007cac-5254-4d96-8827-d02d614bd7fa",
+        "score": 13.779481
+      },
+      {
+        "ID": "Ascalon1099",
+        "Country": "Israel",
+        "Latitude": 31.668789,
+        "Longitude": 34.574253,
+        "Name": "Ascalon",
+        "Year": 1099,
+        "Participants": [
+          "['Egypt', 'Jerusalem', 'the Fatimid Egyptians']"
+        ],
+        "Winner": [
+          "Crusaders"
+        ],
+        "Loser": [
+          "Fatimid Caliphate"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Ascalon took place on 12 August 1099 shortly after the capture of Jerusalem, and is often considered the last action of the First Crusade.  The crusader army led by Godfrey of Bouillon defeated and drove off a Fatimid army.",
+        "id": "40ec5713-1f0a-4d56-8b80-6ab4a590c812",
+        "Name_War": "Crusader-Muslim Wars",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p216"
+        ],
+        "_version_": 1816257014610788352,
+        "_root_": "40ec5713-1f0a-4d56-8b80-6ab4a590c812",
+        "score": 13.588966
+      },
+      {
+        "ID": "Ascalon1123",
+        "Country": "Israel",
+        "Latitude": 31.668789,
+        "Longitude": 34.574253,
+        "Name": "Ascalon",
+        "Year": 1123,
+        "Participants": [
+          "['Crusader-Muslim', 'Egyptian', 'Muslim', 'Palestine', 'Venetians', 'Venice']"
+        ],
+        "Winner": [
+          "Venice"
+        ],
+        "Loser": [
+          "Egypt"
+        ],
+        "Theatre": "Sea",
+        "Massacre": "No",
+        "Description": "The Battle of Ascalon took place on 12 August 1099 shortly after the capture of Jerusalem, and is often considered the last action of the First Crusade.  The crusader army led by Godfrey of Bouillon defeated and drove off a Fatimid army.",
+        "id": "cd5fde9e-e436-4bdc-99d0-0a99c4480337",
+        "Name_War": "Crusader-Muslim Wars",
+        "_version_": 1816257014610788353,
+        "_root_": "cd5fde9e-e436-4bdc-99d0-0a99c4480337",
+        "score": 13.588966
+      },
+      {
+        "ID": "Ascalon1153",
+        "Country": "Israel",
+        "Latitude": 31.668789,
+        "Longitude": 34.574253,
+        "Name": "Ascalon",
+        "Year": 1153,
+        "Participants": [
+          "['Crusader-Muslim', 'Egyptian', 'Fatimid Egyptian', 'Jerusalem', 'Syria', 'Wars       ']"
+        ],
+        "Winner": [
+          "Kingdom of Jerusalem"
+        ],
+        "Loser": [
+          "Fatimid Caliphate"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Ascalon took place on 12 August 1099 shortly after the capture of Jerusalem, and is often considered the last action of the First Crusade.  The crusader army led by Godfrey of Bouillon defeated and drove off a Fatimid army.",
+        "id": "e04c9205-1582-45ba-9a65-2e09ea2a731c",
+        "Name_War": "Crusader-Muslim Wars",
+        "_version_": 1816257014610788354,
+        "_root_": "e04c9205-1582-45ba-9a65-2e09ea2a731c",
+        "score": 13.588966
+      },
+      {
+        "ID": "Ascalon1247",
+        "Country": "Israel",
+        "Latitude": 31.668789,
+        "Longitude": 34.574253,
+        "Name": "Ascalon",
+        "Year": 1247,
+        "Participants": [
+          "['Crusader-Muslim', 'Egyptians', 'Gaza', 'Jerusalem', 'Khwarezmian', 'Turks']"
+        ],
+        "Winner": [
+          "Egypt"
+        ],
+        "Loser": [
+          "Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Ascalon took place on 12 August 1099 shortly after the capture of Jerusalem, and is often considered the last action of the First Crusade.  The crusader army led by Godfrey of Bouillon defeated and drove off a Fatimid army.",
+        "id": "819de2b0-57a5-47b8-a5b7-c25d8b55f545",
+        "Name_War": "Crusader-Muslim Wars",
+        "_version_": 1816257014610788355,
+        "_root_": "819de2b0-57a5-47b8-a5b7-c25d8b55f545",
+        "score": 13.588966
+      },
+      {
+        "ID": "Fariskur1250",
+        "Country": "Egypt",
+        "Latitude": 31.327238,
+        "Longitude": 31.717287,
+        "Name": "Fariskur",
+        "Year": 1250,
+        "Participants": [
+          "['Cairo', 'Egypt', 'Mansura']"
+        ],
+        "Winner": [
+          "Egypt"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battle of Fariskur was the last major battle of the Seventh Crusade. The battle was fought on 6 April 1250, between the Crusaders led by King Louis IX of France (later Saint Louis) and Egyptian forces led by Turanshah of the Ayyubid dynasty. ",
+        "id": "aa995fd7-bc8a-4e8a-9691-2e861b877da4",
+        "Name_War": "7th Crusade",
+        "_version_": 1816257015120396294,
+        "_root_": "aa995fd7-bc8a-4e8a-9691-2e861b877da4",
+        "score": 13.403647
+      },
+      {
+        "ID": "Damietta1218",
+        "Country": "Egypt",
+        "Latitude": 31.41754,
+        "Longitude": 31.814444,
+        "Name": "Damietta",
+        "Year": 1249,
+        "Participants": [
+          "['Cyprus', 'Egypt', 'France', 'French', 'Mansura']"
+        ],
+        "Winner": [
+          "Egypt"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The siege of Damietta occurred in 1249 and was part of the Seventh Crusade. Louis IX of France landed at Damietta in 1249. Egypt would, Louis thought, provide a base from which to attack Jerusalem, and its wealth and supply of grain would keep the crusaders fed and equipped.",
+        "id": "0833356d-321a-467b-9000-e7c55678bbf0",
+        "Name_War": "7th Crusade",
+        "_version_": 1816257015029170178,
+        "_root_": "0833356d-321a-467b-9000-e7c55678bbf0",
+        "score": 13.047772
+      },
+      {
+        "ID": "Mersivan1101",
+        "Country": "Turkey",
+        "Latitude": 40.87493,
+        "Longitude": 35.43973,
+        "Name": "Mersivan",
+        "Year": 1101,
+        "Participants": [
+          "['Blois', 'Constable of Germany', 'Danishmend Turkish', 'French', 'Halys', 'Toulouse']"
+        ],
+        "Winner": [
+          "Emirate of Sebastea"
+        ],
+        "Loser": [
+          "Lombardy, Blois, Germany"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Mersivan was fought between the European Crusaders and the Seljuk Turks led by Kilij Arslan I in Northern Anatolia during the Crusade of 1101. The Turks decisively defeated the Crusaders, who lost an estimated four-fifths of their army near the mountains of Paphlagonia at Mersivan (Mersifon).",
+        "id": "74e2fabf-d388-49bb-bae6-97993597e0d9",
+        "Name_War": "Crusader-Muslim Wars",
+        "_version_": 1816257015450697734,
+        "_root_": "74e2fabf-d388-49bb-bae6-97993597e0d9",
+        "score": 12.87683
+      },
+      {
+        "ID": "Antioch, Syria1097",
+        "Country": "Turkey",
+        "Latitude": 36.196804,
+        "Longitude": 36.161236,
+        "Name": "Antioch, Syria",
+        "Year": 1097,
+        "Participants": [
+          "['Antioch', 'Syria']"
+        ],
+        "Winner": [
+          "Seljik Turks"
+        ],
+        "Loser": [
+          "Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The siege of Antioch took place during the First Crusade in 1097 and 1098, on the crusaders' way to Jerusalem through Syria. Two sieges took place in succession. The first siege, by the crusaders against the city held by the Seljuk Empire, lasted from 20 October 1097[11] to 3 June 1098.",
+        "id": "110555e4-97bf-409d-be1c-ae691c8a5eed",
+        "Name_War": "1st Crusade",
+        "_version_": 1816257014536339456,
+        "_root_": "110555e4-97bf-409d-be1c-ae691c8a5eed",
+        "score": 12.710307
+      },
+      {
+        "ID": "Dorylaeum1147",
+        "Country": "Turkey",
+        "Latitude": 39.766705,
+        "Longitude": 30.52563,
+        "Name": "Dorylaeum",
+        "Year": 1147,
+        "Participants": [
+          "['France', 'German', 'Palestine', 'Turkey', 'Turkish']"
+        ],
+        "Winner": [
+          "Seljuks"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The second Battle of Dorylaeum took place near Dorylaeum in October 1147, during the Second Crusade. It was not a single clash but consisted of a series of encounters over a number of days. The German crusader forces of Conrad III were defeated by the Seljuk Turks led by Sultan Mesud I.",
+        "id": "9df87ed0-7a83-4d8d-acaf-5bcb8877d9c9",
+        "Name_War": "2nd Crusade",
+        "_version_": 1816257015070064642,
+        "_root_": "9df87ed0-7a83-4d8d-acaf-5bcb8877d9c9",
+        "score": 12.710307
+      },
+      {
+        "ID": "Kunovica1444",
+        "Country": "Serbia",
+        "Latitude": 43.297264,
+        "Longitude": 22.10201,
+        "Name": "Kunovica",
+        "Year": 1444,
+        "Participants": [
+          "['Bulgaria', 'Christians', 'Hungary', 'Kunovica', 'Turkish', 'Turks']"
+        ],
+        "Winner": [
+          "Hungary"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Kunovica or Battle at Kunovitsa was fought between crusaders led by John Hunyadi and the armies of the Ottoman Empire on 2 or 5 January 1444, near the mountain Kunovica (Suva Planina) between Pirot and Ni\u0161, in present-day Serbia. It was part of the larger Crusade of Varna.",
+        "id": "adf84a28-65d8-473f-94e9-0034445f1666",
+        "Name_War": "Turkish-Hungarian Wars",
+        "_version_": 1816257015362617345,
+        "_root_": "adf84a28-65d8-473f-94e9-0034445f1666",
+        "score": 12.710307
+      },
+      {
+        "ID": "Domosdova1444",
+        "Country": " Algeria",
+        "Latitude": 41.046017,
+        "Longitude": 20.501148,
+        "Name": "Domosdova",
+        "Year": 1444,
+        "Participants": [
+          "['Albania', 'Albanian', 'Domosdova', 'Elbasan', 'Ohrid', 'Ottoman', 'Poland', 'Turks']"
+        ],
+        "Winner": [
+          "Albania"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "When an Ottoman army under Ali Pasha invaded Albania through Ohrid, they were met southeast of Elbasan on the plain of Tervol at Domosdova by an Albanian force under George Kastriote Skanderbeg. The Turks were heavily defeated in an unexpected reverse, encouraging King Ladislas of Poland to launch his fatal Crusade towards disaster at Varna.",
+        "id": "016fb2bf-f308-4882-8a03-767db8ef9328",
+        "Name_War": "Albanian-Turkish War",
+        "_version_": 1816257015065870338,
+        "_root_": "016fb2bf-f308-4882-8a03-767db8ef9328",
+        "score": 12.548036
+      },
+      {
+        "ID": "Alexandria1365",
+        "Country": "Egypt",
+        "Latitude": 31.200092,
+        "Longitude": 29.91874,
+        "Name": "Alexandria",
+        "Year": 1365,
+        "Participants": [
+          "['Alexandria', 'Christian', 'Egypt', 'Egyptian', 'Muslim']"
+        ],
+        "Winner": [
+          "Cyprus"
+        ],
+        "Loser": [
+          "Egypt"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Seventy years after the end of the principal Christian Crusades, King Peter of Cyprus launched his own campaign against Muslim Egypt. He captured and sacked Alexandria with a terrible slaughter of the population of all races and the capture of massive booty. However, his campaign stalled and was ended by his assassination in Nicosia a few years later.",
+        "id": "f57fdad7-ab35-4de1-96b1-826948e70750",
+        "Name_War": "Egyptian Crusade of Peter of Cyprus",
+        "_version_": 1816257014434627586,
+        "_root_": "f57fdad7-ab35-4de1-96b1-826948e70750",
+        "score": 12.389856
+      },
+      {
+        "ID": "Dorylaeum1097",
+        "Country": "Turkey",
+        "Latitude": 39.766705,
+        "Longitude": 30.52563,
+        "Name": "Dorylaeum",
+        "Year": 1097,
+        "Participants": [
+          "['Arslans', 'Arslans Turkish', 'Dorylaeum', 'Turkey', 'Turks']"
+        ],
+        "Winner": [
+          "Bohemond of Taranto, Crusaders"
+        ],
+        "Loser": [
+          "Turks"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Dorylaeum took place during the First Crusade on 1 July 1097 between the crusader forces and the Seljuk Turks, near the city of Dorylaeum in Anatolia. Though the Turkish forces of Kilij Arslan nearly destroyed the Crusader contingent of Bohemond, other Crusaders arrived just in time to reverse the course of the battle.",
+        "id": "9f48a7d4-8225-443e-996a-ff3a5b47c2ba",
+        "Name_War": "1st Crusade",
+        "Lehmann_Zhukov_Scale": 4.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p213-214; Harbottle's Dictionary of Battles, George Bruce, 1979, p82"
+        ],
+        "_version_": 1816257015070064641,
+        "_root_": "9f48a7d4-8225-443e-996a-ff3a5b47c2ba",
+        "score": 12.389856
+      },
+      {
+        "ID": "Mopsuestia1152",
+        "Country": "Turkey",
+        "Latitude": 36.960484,
+        "Longitude": 35.625095,
+        "Name": "Mopsuestia",
+        "Year": 1152,
+        "Participants": [
+          "['Armenian', 'Cilicia']"
+        ],
+        "Winner": [
+          "Armenia"
+        ],
+        "Loser": [
+          "Byzantium"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "With Constantinople distracted by the Second Crusade, the Armenian leader Thoros gradually seized Cilicia and Emperor Manuel I sent an army under his cousin Andronicus. The Greeks retook Tarsus, but near Mopsuestia (Crusader Mamista) Thoros routed the invaders with over 3,000 killed. In 1159 Cilicia was recovered by Manuel, who later ceded control to Armenian vassal Princes.",
+        "id": "58bc0792-9ea6-4cdb-8978-4391c550b4b8",
+        "Name_War": "2nd Crusade",
+        "_version_": 1816257015479009286,
+        "_root_": "58bc0792-9ea6-4cdb-8978-4391c550b4b8",
+        "score": 12.389856
+      },
+      {
+        "ID": "Nicopolis, Bulgaria1396",
+        "Country": "Bulgaria",
+        "Latitude": 43.701637,
+        "Longitude": 24.884825,
+        "Name": "Nicopolis, Bulgaria",
+        "Year": 1396,
+        "Participants": [
+          "['Bulgaria', 'Crusading', 'Hungary', 'Nicopolis', 'Ottoman', 'Turks']"
+        ],
+        "Winner": [
+          "Turkey"
+        ],
+        "Loser": [
+          "Hungary, Nevers, Crusaders"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Caught up in a surge of Crusading zeal against Turks in the Balkans, a massive multinational army set out led by King Sigismund of Hungary and Count John of Nevers. Facing a large Ottoman force under Sultan Bayazid at Nicopolis (modern Nikopol, Bulgaria), the Crusaders were badly defeated then pursued and slaughtered, ending the so-called \"Crusade of Nicopolis\".",
+        "id": "7bd4c3a2-f97b-481e-a73b-bfbc76d936bd",
+        "Name_War": "Ottoman Conquest of the Balkans",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p251; Harbottle's Dictionary of Battles, p182"
+        ],
+        "_version_": 1816257015516758019,
+        "_root_": "7bd4c3a2-f97b-481e-a73b-bfbc76d936bd",
+        "score": 12.389856
+      },
+      {
+        "ID": "Zara1202",
+        "Country": "Croatia",
+        "Latitude": 44.13506,
+        "Longitude": 15.1788645,
+        "Name": "Zara",
+        "Year": 1202,
+        "Participants": [
+          "['Christian', 'Hungarian', 'Palestine', 'Venetian', 'Venice', 'Zara']"
+        ],
+        "Winner": [
+          "Crusaders"
+        ],
+        "Loser": [
+          "Hungary"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "Seeking transport to Palestine, leaders of the Fourth Crusade asked Venice for ships and were induced to pay the debt by helping besiege and recapture the former Venetian city of Zara in Hungarian-ruled Dalmatia. Though Europe was shocked at Crusaders attacking a Christian city, the Crusaders then also agreed to assist Venice in seizing Constantinople in July 1203.",
+        "id": "64e81093-7cd3-44ee-b7dc-6e22a67c0f15",
+        "Name_War": "4th Crusade",
+        "_version_": 1816257015938285573,
+        "_root_": "64e81093-7cd3-44ee-b7dc-6e22a67c0f15",
+        "score": 12.389856
+      },
+      {
+        "ID": "Zatec1421",
+        "Country": "Czechia",
+        "Latitude": 50.327175,
+        "Longitude": 13.545786,
+        "Name": "Zatec",
+        "Year": 1421,
+        "Participants": [
+          "['Hussite', 'Prague', 'Zatec']"
+        ],
+        "Winner": [
+          "Hussites"
+        ],
+        "Loser": [
+          "Holy Roman Empire"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Recovering from defeat at Vitkov Hill ( July 1420), a fresh expedition of Imperial Princes entered Bohemia against the Hussite heretics and besieged Zatec (German Saaz), northwest of Prague. On false reports of an approaching army under the great Jan Zizka, the so-called Second Crusade withdrew with costly losses inflicted by the pursuing garrison of Zatec.",
+        "id": "fea56ffe-504b-4aa6-858c-6aa911be4c65",
+        "Name_War": "Hussite Wars",
+        "_version_": 1816257015938285576,
+        "_root_": "fea56ffe-504b-4aa6-858c-6aa911be4c65",
+        "score": 12.389856
+      }
+    ]
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 91,
+    "params": {
+      "json": "{\"query\": \"(USSR OR Russia OR Soviet) AND \\\"World War II\\\"\", \"params\": {\"start\": 0, \"rows\": 30, \"df\": \"Description\", \"fl\": \"*,score\"}}"
+    }
+  },
+  "response": {
+    "numFound": 35,
+    "start": 0,
+    "maxScore": 8.035135,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": [
+          "Smolensk1941"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          54.7903112
+        ],
+        "Longitude": [
+          32.0503663
+        ],
+        "Name": [
+          "Smolensk"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Germans', 'Moscow', 'Russian', 'Smolensk', 'Soviet', 'von Bock']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The first Battle of Smolensk (German: Kesselschlacht bei Smolensk, lit. 'Cauldron-battle at Smolensk'; Russian: \u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0431\u043e\u0440\u043e\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f, romanized: Smolenskaya strategicheskaya oboronitelnaya operatsiya, lit.\u2009'Smolensk strategic defensive operation') was a battle during the second phase of Operation Barbarossa, the Axis invasion of the Soviet Union, in World War II. It was fought around the city of Smolensk between 10 July and 10 September 1941, about 400 km (250 mi) west of Moscow. The Ostheer had advanced 500 km (310 mi) into the USSR in the 18 days after the invasion on 22 June 1941."
+        ],
+        "id": "5422caa6-26a1-479a-a8b7-59178b9f340a",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          5.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p810; Liddel Hart, the Second World War, p171"
+        ],
+        "_version_": 1816284456924741632,
+        "_root_": "5422caa6-26a1-479a-a8b7-59178b9f340a",
+        "score": 8.035135
+      },
+      {
+        "ID": [
+          "Uman1941"
+        ],
+        "Country": [
+          "Ukraine"
+        ],
+        "Latitude": [
+          48.7699292
+        ],
+        "Longitude": [
+          30.2154406
+        ],
+        "Name": [
+          "Uman"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['German', 'Germans', 'Russian', 'Ukraine']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Uman (15 July \u2013 8 August 1941) was the World War II German offensive in Uman, Ukraine against the 6th and 12th Soviet Armies.  In a three-week period, the Wehrmacht encircled and annihilated the two Soviet armies."
+        ],
+        "id": "2be69960-2d33-46b3-9ac1-316d1606519f",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "_version_": 1816284457350463489,
+        "_root_": "2be69960-2d33-46b3-9ac1-316d1606519f",
+        "score": 6.696521
+      },
+      {
+        "ID": [
+          "Uman1944"
+        ],
+        "Country": [
+          "Ukraine"
+        ],
+        "Latitude": [
+          48.7699292
+        ],
+        "Longitude": [
+          30.2154406
+        ],
+        "Name": [
+          "Uman"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['Dnieper', 'Germans', 'Romania', 'Zvenigorodka']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Uman (15 July \u2013 8 August 1941) was the World War II German offensive in Uman, Ukraine against the 6th and 12th Soviet Armies.  In a three-week period, the Wehrmacht encircled and annihilated the two Soviet armies."
+        ],
+        "id": "de8ea9ea-1c5f-4d6e-ac37-266399ef4164",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "_version_": 1816284457350463490,
+        "_root_": "de8ea9ea-1c5f-4d6e-ac37-266399ef4164",
+        "score": 6.696521
+      },
+      {
+        "ID": [
+          "Stalingrad1942-1943"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          48.708048
+        ],
+        "Longitude": [
+          44.5133035
+        ],
+        "Name": [
+          "Stalingrad"
+        ],
+        "Year": [
+          1942
+        ],
+        "Participants": [
+          "['Germany', 'Romania', 'USSR']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany, Romania"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Stalingrad (17 July 1942 \u2013 2 February 1943) was a major battle on the Eastern Front of World War II, beginning when Nazi Germany and its Axis allies attacked and became locked in a protracted struggle with the Soviet Union for control over the Soviet city of Stalingrad in southern Russia. The battle was characterized by fierce close-quarters combat and direct assaults on civilians in aerial raids; the battle epitomized urban warfare, being the single largest and costliest urban battle in military history. It was the bloodiest and fiercest battle of the entirety of World War II\u2014and arguably in all of human history\u2014as both sides suffered tremendous casualties amidst ferocious fighting in and around the city. The battle is commonly regarded as the turning point in the European theatre of World War II, as Germany's Oberkommando der Wehrmacht was forced to withdraw a considerable amount of military forces from other regions to replace losses on the Eastern Front. By the time the hostilities ended, the German 6th Army and 4th Panzer Army had been destroyed and Army Group B was routed. The Soviets' victory at Stalingrad shifted the Eastern Front's balance of power in their favour, while also boosting the morale of the Red Army."
+        ],
+        "id": "442bd2cf-6b31-41f0-805e-3e11dd2a68ae",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Besieged: 100 Great Sieges from Jericho to Sarajevo, Paul K Davis, p323; Harbottle's Dictionary of Battles, p240-241; Chasseaud, Peter, Mapping the Second World War, p124"
+        ],
+        "_version_": 1816284456998141952,
+        "_root_": "442bd2cf-6b31-41f0-805e-3e11dd2a68ae",
+        "score": 6.1304636
+      },
+      {
+        "ID": [
+          "Ihantala1944"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          63.2637777
+        ],
+        "Longitude": [
+          25.2196056
+        ],
+        "Name": [
+          "Ihantala"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['Finland', 'Finnish', 'Finns', 'Ihantala', 'Russian', 'Soviet', 'Tali']"
+        ],
+        "Winner": [
+          "Finland, Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Tali\u2013Ihantala (June 25 to July 9, 1944) was part of the Finnish-Soviet Continuation War (1941\u20131944), which occurred during World War II. The battle was fought between Finnish forces\u2014using war materiel provided by Germany\u2014and Soviet forces. To date, it is the largest battle in the history of the Nordic countries."
+        ],
+        "id": "ccca529e-9950-486b-9718-a56fecd756ae",
+        "Name_War": [
+          "World War II"
+        ],
+        "_version_": 1816284453279891456,
+        "_root_": "ccca529e-9950-486b-9718-a56fecd756ae",
+        "score": 6.1281557
+      },
+      {
+        "ID": [
+          "Berlin1943-1944"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          52.5200066
+        ],
+        "Longitude": [
+          13.404954
+        ],
+        "Name": [
+          "Berlin"
+        ],
+        "Year": [
+          1943
+        ],
+        "Participants": [
+          "['American', 'Berlin', 'British', 'German']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "United Kingdom, United States"
+        ],
+        "Theatre": [
+          "Air"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Berlin, designated as the Berlin Strategic Offensive Operation by the Soviet Union, and also known as the Fall of Berlin, was one of the last major offensives of the European theatre of World War II."
+        ],
+        "id": "ddebca5b-388d-4888-9840-55895c6006d5",
+        "Name_War": [
+          "['World War II']"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p489"
+        ],
+        "_version_": 1816284451201613824,
+        "_root_": "ddebca5b-388d-4888-9840-55895c6006d5",
+        "score": 6.069149
+      },
+      {
+        "ID": [
+          "Berlin1945"
+        ],
+        "Country": [
+          "Germany"
+        ],
+        "Latitude": [
+          52.5200066
+        ],
+        "Longitude": [
+          13.404954
+        ],
+        "Name": [
+          "Berlin"
+        ],
+        "Year": [
+          1945
+        ],
+        "Participants": [
+          "['Berlin', 'German', 'Germany', 'Ivan', 'Konev', 'Russian', 'Soviet']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Berlin, designated as the Berlin Strategic Offensive Operation by the Soviet Union, and also known as the Fall of Berlin, was one of the last major offensives of the European theatre of World War II."
+        ],
+        "id": "8ff1395e-f048-4e92-a942-24d7226f734f",
+        "Name_War": [
+          "['World War II']"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p42; Battles Map by Map, p251"
+        ],
+        "_version_": 1816284451202662400,
+        "_root_": "8ff1395e-f048-4e92-a942-24d7226f734f",
+        "score": 6.069149
+      },
+      {
+        "ID": [
+          "Kiev1941"
+        ],
+        "Country": [
+          "Ukraine"
+        ],
+        "Latitude": [
+          50.4501
+        ],
+        "Longitude": [
+          30.5234
+        ],
+        "Name": [
+          "Kiev"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Kiev', 'Moscow', 'Smolensk', 'Ukraine']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The First Battle of Kiev was the German name for the major battle that resulted in an encirclement of Soviet troops in the vicinity of Kiev during World War II, the capital and most populous city of the Ukrainian Soviet Socialist Republic. This encirclement is the largest encirclement in the history of warfare by number of troops. The battle occurred from 7 July to 26 September 1941 as part of Operation Barbarossa, the Axis invasion of the Soviet Union."
+        ],
+        "id": "5440f958-3291-4876-acb3-30ba34d94b1a",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          5.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, p810"
+        ],
+        "_version_": 1816284454017040385,
+        "_root_": "5440f958-3291-4876-acb3-30ba34d94b1a",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1238"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1238
+        ],
+        "Participants": [
+          "['Mongols', 'Moscow', 'Russia', 'the Princedom of Vladimir-Suzdal']"
+        ],
+        "Winner": [
+          "Mongols"
+        ],
+        "Loser": [
+          "Moscow"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "Battle followed by massacre"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "59e623a3-511b-405b-9bb2-ed05f2e52467",
+        "Name_War": [
+          "Mongol Conquest of Russia"
+        ],
+        "_version_": 1816284454915670016,
+        "_root_": "59e623a3-511b-405b-9bb2-ed05f2e52467",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1382"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1382
+        ],
+        "Participants": [
+          "['Moscow', 'Russian', 'Toktamish']"
+        ],
+        "Winner": [
+          "Mongols"
+        ],
+        "Loser": [
+          "Moscow"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "Battle followed by massacre"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "d4db6fff-d738-4d0b-b2a8-0537f32d3171",
+        "Name_War": [
+          "Russian Mongol War"
+        ],
+        "_version_": 1816284454916718592,
+        "_root_": "d4db6fff-d738-4d0b-b2a8-0537f32d3171",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1571"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1571
+        ],
+        "Participants": [
+          "['Girai', 'Moscow', 'Russia', 'Russian']"
+        ],
+        "Winner": [
+          "Crimean Tatar Khanate"
+        ],
+        "Loser": [
+          "Moscow"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "Yes"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "c1c9c3a2-bb3b-4566-93be-6f82570f999b",
+        "Name_War": [
+          "Russian Tatar Wars"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p22"
+        ],
+        "_version_": 1816284454917767168,
+        "_root_": "c1c9c3a2-bb3b-4566-93be-6f82570f999b",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1611-1612"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1611
+        ],
+        "Participants": [
+          "['Klushino', 'Moscow', 'Poland', 'Polish', 'Russian', 'Russians']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Poland"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "4f367715-5500-457d-8cc7-e1c216060b2d",
+        "Name_War": [
+          "Russian Time of Troubles"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p53"
+        ],
+        "_version_": 1816284454917767169,
+        "_root_": "4f367715-5500-457d-8cc7-e1c216060b2d",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1618"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1618
+        ],
+        "Participants": [
+          "['Moscow', 'Poland', 'Prince Dimitri Pozharski', 'Russia', 'Russian', 'Smolensk']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Poland"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "2663051d-242c-43b5-b0ab-0552ee5eccc1",
+        "Name_War": [
+          "Russian Time of Troubles"
+        ],
+        "_version_": 1816284454918815744,
+        "_root_": "2663051d-242c-43b5-b0ab-0552ee5eccc1",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Moscow1941-1942"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          55.755826
+        ],
+        "Longitude": [
+          37.6172999
+        ],
+        "Name": [
+          "Moscow"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Bryansk', 'German', 'Germans', 'Moscow', 'Russian', 'Vyazma']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Moscow was a military campaign that consisted of two periods of strategically significant fighting on a 600 km (370 mi) sector of the Eastern Front during World War II, between October 1941 and January 1942. The Soviet defensive effort frustrated Hitler's attack on Moscow, the capital and largest city of the Soviet Union. Moscow was one of the primary military and political objectives for Axis forces in their invasion of the Soviet Union."
+        ],
+        "id": "c83a86de-1cdd-467a-9f15-95b6a3270e4a",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          5.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p466"
+        ],
+        "_version_": 1816284454918815745,
+        "_root_": "c83a86de-1cdd-467a-9f15-95b6a3270e4a",
+        "score": 5.9508643
+      },
+      {
+        "ID": [
+          "Kursk1943"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          51.7091957
+        ],
+        "Longitude": [
+          36.1562241
+        ],
+        "Name": [
+          "Kursk"
+        ],
+        "Year": [
+          1943
+        ],
+        "Participants": [
+          "['Germans', 'Orel', 'Prokhorovka', 'Russian', 'Soviets']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Kursk was a major World War II Eastern Front battle between the forces of Nazi Germany and the Soviet Union near Kursk in southwestern Russia during the summer of 1943, resulting in a Soviet victory. The Battle of Kursk was the single largest battle in the history of warfare. It ranks only behind the Battle of Stalingrad several months earlier, as the most often-cited turning point in the European theatre of the war. It was one of the costliest battles of the Second World War, the single deadliest armoured battle in history, and the opening day of the battle, 5 July, was the single costliest day in the history of aerial warfare. The battle was also marked by fierce house-to-house fighting and hand-to-hand combat."
+        ],
+        "id": "e6b01984-e560-4aa5-817a-d28733909aff",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p816"
+        ],
+        "_version_": 1816284454265552896,
+        "_root_": "e6b01984-e560-4aa5-817a-d28733909aff",
+        "score": 5.7909985
+      },
+      {
+        "ID": [
+          "Vuosalmi1944"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          61.3254777
+        ],
+        "Longitude": [
+          28.4843335
+        ],
+        "Name": [
+          "Vuosalmi"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['Finland', 'Finnish', 'Ihantala', 'Karelia', 'Russian', 'Soviet']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Finland"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Vuosalmi (also known as the Battle of \u00c4yr\u00e4p\u00e4\u00e4-Vuosalmi) \u2013 the main bulk of it \u2013 lasted from July 4 to July 17, 1944.  It was fought during the Continuation War (1941\u20131944), a part of World War II, between Finland and the Soviet Union."
+        ],
+        "id": "6bdf56b2-df2e-4cf6-ad43-af456db4f515",
+        "Name_War": [
+          "World War II"
+        ],
+        "_version_": 1816284457456369664,
+        "_root_": "6bdf56b2-df2e-4cf6-ad43-af456db4f515",
+        "score": 5.7425337
+      },
+      {
+        "ID": [
+          "Chawinda1965"
+        ],
+        "Country": [
+          "Pakistan"
+        ],
+        "Latitude": [
+          32.3445875
+        ],
+        "Longitude": [
+          74.7059059
+        ],
+        "Name": [
+          "Chawinda"
+        ],
+        "Year": [
+          1965
+        ],
+        "Participants": [
+          "['Indias', 'Indo', 'Pakistan']"
+        ],
+        "Winner": [
+          "Pakistan"
+        ],
+        "Loser": [
+          "India"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Chawinda was a major engagement between Pakistan and India during the Indo-Pakistani war of 1965 as part of the Sialkot campaign. It is well known as being one of the largest tank battles in history since the Battle of Kursk, which was fought between the Soviet Union and Nazi Germany in World War II."
+        ],
+        "id": "655da259-1dd1-429a-89a0-9e9bf9a9cd4a",
+        "Name_War": [
+          "2nd Indo-Pakistani War"
+        ],
+        "_version_": 1816284451985948674,
+        "_root_": "655da259-1dd1-429a-89a0-9e9bf9a9cd4a",
+        "score": 5.3805842
+      },
+      {
+        "ID": [
+          "Leningrad1941"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          59.9342802
+        ],
+        "Longitude": [
+          30.3350986
+        ],
+        "Name": [
+          "Leningrad"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Germany', 'USSR']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The siege of Leningrad was a prolonged military siege undertaken by the Axis powers against the Soviet city of Leningrad (present-day Saint Petersburg) on the Eastern Front of World War II. Germany's Army Group North advanced from the south, while the German-allied Finnish army invaded from the north and completed the ring around the city."
+        ],
+        "id": "1f20e99f-7d71-4f22-953d-aedc9671ded6",
+        "Name_War": [
+          "World War I"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Besieged: 100 Great Sieges from Jericho to Sarajevo, Paul K Davis, p311"
+        ],
+        "_version_": 1816284454385090560,
+        "_root_": "1f20e99f-7d71-4f22-953d-aedc9671ded6",
+        "score": 5.3805842
+      },
+      {
+        "ID": [
+          "Constanta1916"
+        ],
+        "Country": [
+          "Romania"
+        ],
+        "Latitude": [
+          44.1598013
+        ],
+        "Longitude": [
+          28.6348138
+        ],
+        "Name": [
+          "Constanta"
+        ],
+        "Year": [
+          1916
+        ],
+        "Participants": [
+          "['Bulgaria', 'Germany', 'Romania', 'Russia', 'Turkey']"
+        ],
+        "Winner": [
+          "Germany, Bulgaria, Turkey"
+        ],
+        "Loser": [
+          "Romania, Russia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Raid on Constan\u021ba was an attack by the Soviet Black Sea Fleet on the Romanian port of Constan\u021ba on 26 June 1941, shortly after the beginning of Operation Barbarossa, the Axis invasion of the Soviet Union, and resulted in the only encounter between major warships in the Black Sea during World War II. The attack was intended to be a coordinated effort between the fleet's ships and aircraft to split the attention of the defenders, but the bombers did not attack at the designated times."
+        ],
+        "id": "b7971c44-f1c8-4435-9752-c6a9c97fb574",
+        "Name_War": [
+          "World War I"
+        ],
+        "_version_": 1816284452075077632,
+        "_root_": "b7971c44-f1c8-4435-9752-c6a9c97fb574",
+        "score": 5.3416276
+      },
+      {
+        "ID": [
+          "Konigsberg1807"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          54.7104264
+        ],
+        "Longitude": [
+          20.4522144
+        ],
+        "Name": [
+          "Konigsberg"
+        ],
+        "Year": [
+          1807
+        ],
+        "Participants": [
+          "['Baltic', 'France', 'Friedland', 'Kaliningrad', 'Prussian', 'Russia']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of K\u00f6nigsberg, also known as the K\u00f6nigsberg offensive, was one of the last operations of the East Prussian offensive during World War II.  In four days of urban warfare, Soviet forces of the 1st Baltic Front and the 3rd Belorussian Front captured the city of K\u00f6nigsberg, present day Kaliningrad, Russia.  The siege started in late January 1945 when the Soviets initially surrounded the city.  Heavy fighting took place for control of overland connection between K\u00f6nigsberg and the port of Pillau, however by March 1945 K\u00f6nigsberg was hundreds of kilometres behind the main front line in the eastern front. The battle ended when the German garrison surrendered to the Soviets on 9 April after a three-day assault made their position untenable."
+        ],
+        "id": "c6198fda-2cb6-4977-8cb2-fc90c1d560f0",
+        "Name_War": [
+          "Napoleonic Wars (4th Coalition)"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p151"
+        ],
+        "_version_": 1816284454187958272,
+        "_root_": "c6198fda-2cb6-4977-8cb2-fc90c1d560f0",
+        "score": 5.2208834
+      },
+      {
+        "ID": [
+          "Konigsberg1945"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          54.7104264
+        ],
+        "Longitude": [
+          20.4522144
+        ],
+        "Name": [
+          "Konigsberg"
+        ],
+        "Year": [
+          1945
+        ],
+        "Participants": [
+          "['Germans']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of K\u00f6nigsberg, also known as the K\u00f6nigsberg offensive, was one of the last operations of the East Prussian offensive during World War II.  In four days of urban warfare, Soviet forces of the 1st Baltic Front and the 3rd Belorussian Front captured the city of K\u00f6nigsberg, present day Kaliningrad, Russia.  The siege started in late January 1945 when the Soviets initially surrounded the city.  Heavy fighting took place for control of overland connection between K\u00f6nigsberg and the port of Pillau, however by March 1945 K\u00f6nigsberg was hundreds of kilometres behind the main front line in the eastern front. The battle ended when the German garrison surrendered to the Soviets on 9 April after a three-day assault made their position untenable."
+        ],
+        "id": "60bea545-13ac-4757-8b26-c201103fa289",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p86"
+        ],
+        "_version_": 1816284454187958273,
+        "_root_": "60bea545-13ac-4757-8b26-c201103fa289",
+        "score": 5.2208834
+      },
+      {
+        "ID": [
+          "Lapland1944"
+        ],
+        "Country": [
+          "Finland"
+        ],
+        "Latitude": [
+          67.9222304
+        ],
+        "Longitude": [
+          26.5046438
+        ],
+        "Name": [
+          "Lapland"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['Finland', 'Germany', 'USSR']"
+        ],
+        "Winner": [
+          "Finland, USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "During World War II, the Lapland War (Finnish: Lapin sota; Swedish: Lapplandskriget; German: Lapplandkrieg) saw fighting between Finland and Nazi Germany \u2013 effectively from September to November 1944 \u2013 in Finland's northernmost region, Lapland. Though the Finns and the Germans had been fighting together against the Soviet Union since 1941 during the Continuation War (1941\u20131944), peace negotiations between the Finnish government and the Allies of World War II had been conducted intermittently during 1943\u20131944, but no agreement had been reached.[9] The Moscow Armistice, signed on 19 September 1944, demanded that Finland break diplomatic ties with Germany and expel or disarm any German soldiers remaining in Finland."
+        ],
+        "id": "d8cc6b0a-d36d-4698-8d2d-1982aeb9203d",
+        "Name_War": [
+          "World War II"
+        ],
+        "_version_": 1816284454335807488,
+        "_root_": "d8cc6b0a-d36d-4698-8d2d-1982aeb9203d",
+        "score": 5.2124767
+      },
+      {
+        "ID": [
+          "Karelia1941"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          63.1558702
+        ],
+        "Longitude": [
+          32.9905552
+        ],
+        "Name": [
+          "Karelia"
+        ],
+        "Year": [
+          1941
+        ],
+        "Participants": [
+          "['Finnish', 'German', 'Leningrad', 'Russia', 'Soviets']"
+        ],
+        "Winner": [
+          "Finland"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Continuation War, also known as the Second Soviet-Finnish War, was a conflict fought by Finland and Nazi Germany against the Soviet Union during World War II. It began with a Finnish declaration of war and invasion on 25 June 1941 and ended on 19 September 1944 with the Moscow Armistice. The Soviet Union and Finland had previously fought the Winter War from 1939 to 1940, which ended with the Soviet failure to conquer Finland and the Moscow Peace Treaty. Numerous reasons have been proposed for the Finnish decision to invade, with regaining territory lost during the Winter War regarded as the most common. Other justifications for the conflict include Finnish President Risto Ryti's vision of a Greater Finland and Commander-in-Chief Carl Gustaf Emil Mannerheim's desire to annex East Karelia."
+        ],
+        "id": "afce1133-2a4b-40f3-bb48-44125954d3d7",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p802"
+        ],
+        "_version_": 1816284453872336896,
+        "_root_": "afce1133-2a4b-40f3-bb48-44125954d3d7",
+        "score": 5.193377
+      },
+      {
+        "ID": [
+          "Kharkov (2nd)1943"
+        ],
+        "Country": [
+          "Ukraine"
+        ],
+        "Latitude": [
+          49.9935
+        ],
+        "Longitude": [
+          36.230383
+        ],
+        "Name": [
+          "Kharkov (2nd)"
+        ],
+        "Year": [
+          1943
+        ],
+        "Participants": [
+          "['German']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Second Battle of Kharkov or Operation Fredericus was an Axis counter-offensive in the region around Kharkov against the Red Army Izium bridgehead offensive conducted 12\u201328 May 1942, on the Eastern Front during World War II. Its objective was to eliminate the Izium bridgehead over Seversky Donets or the 'Barvenkovo bulge' (Russian: \u0411\u0430\u0440\u0432\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0432\u044b\u0441\u0442\u0443\u043f, romanized: Barvenkovsky vystup) which was one of the Soviet offensive's staging areas. After a winter counter-offensive that drove German troops away from Moscow but depleted the Red Army's reserves, the Kharkov offensive was a new Soviet attempt to expand upon their strategic initiative, although it failed to secure a significant element of surprise."
+        ],
+        "id": "778881d2-26cb-46c8-90b3-39ecac9291aa",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p457"
+        ],
+        "_version_": 1816284453982437377,
+        "_root_": "778881d2-26cb-46c8-90b3-39ecac9291aa",
+        "score": 4.895919
+      },
+      {
+        "ID": [
+          "Kharkov1942"
+        ],
+        "Country": [
+          "Ukraine"
+        ],
+        "Latitude": [
+          49.9935
+        ],
+        "Longitude": [
+          36.230383
+        ],
+        "Name": [
+          "Kharkov"
+        ],
+        "Year": [
+          1942
+        ],
+        "Participants": [
+          "['German', 'Moscow', 'Russians']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "USSR"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Kharkov was any one of four World War II battles in and near the Soviet city of Kharkov in modern Ukraine. In usage the term is sometimes indistinct, perhaps meaning the collection of all fighting at Kharkov including and in between the four named battles, or perhaps meaning just one of the battles without specifying which. For example, soldiers have received awards \"for their action in the Battle of Kharkov\"."
+        ],
+        "id": "a667cd82-ef64-42cc-ad09-d4ece63157ea",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          4.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p466"
+        ],
+        "_version_": 1816284453981388801,
+        "_root_": "a667cd82-ef64-42cc-ad09-d4ece63157ea",
+        "score": 4.8876753
+      },
+      {
+        "ID": [
+          "Poznan1945"
+        ],
+        "Country": [
+          "Poland"
+        ],
+        "Latitude": [
+          52.406374
+        ],
+        "Longitude": [
+          16.9251681
+        ],
+        "Name": [
+          "Poznan"
+        ],
+        "Year": [
+          1945
+        ],
+        "Participants": [
+          "['German', 'Poland', 'Poznan', 'Soviet', 'Zhukov']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of Pozna\u0144 (Battle of Posen) during World War II in 1945 was an assault by the Soviet Union's Red Army that had as its objective the elimination of the Nazi German garrison in the stronghold city of Pozna\u0144 (Posen) in occupied Poland. The defeat of the German garrison required a month-long reduction of fortified positions, urban combat, and a final assault on the city's citadel by the Red Army, complete with medieval touches."
+        ],
+        "id": "a49ba0c2-1639-490a-b2d4-a070e814f2a2",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          3.0
+        ],
+        "_version_": 1816284455682179072,
+        "_root_": "a49ba0c2-1639-490a-b2d4-a070e814f2a2",
+        "score": 4.7782435
+      },
+      {
+        "ID": [
+          "Belorussia1944"
+        ],
+        "Country": [
+          "Belarus"
+        ],
+        "Latitude": [
+          53.709807
+        ],
+        "Longitude": [
+          27.953389
+        ],
+        "Name": [
+          "Belorussia"
+        ],
+        "Year": [
+          1944
+        ],
+        "Participants": [
+          "['Belorussia', 'Bobruysk', 'Germans', 'Lublin', 'Minsk', 'Mogilev', 'Soviet', 'Vilna']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "Operation Bagration (Russian: \u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d, romanized: Operatsiya Bagration) was the codename for the 1944 Soviet Byelorussian strategic offensive operation (Russian: \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0430\u044f \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u00ab\u0411\u0430\u0433\u0440\u0430\u0442\u0438\u043e\u043d\u00bb, romanized: Belorusskaya nastupatelnaya operatsiya \"Bagration\"), a military campaign fought between 22 June and 19 August 1944 in Soviet Byelorussia in the Eastern Front of World War II, just over two weeks after the start of Operation Overlord in the west. It was during this operation that Nazi Germany was forced to fight simultaneously on two major fronts for the first time since the war began. The Soviet Union destroyed 28 of 34 divisions of Army Group Centre and completely shattered the German front line. The overall engagement is the largest defeat in German military history, with around 450,000 German casualties, while 300,000 other German soldiers were cut off in the Courland Pocket."
+        ],
+        "id": "becd0a4b-d04e-4bdd-9768-11b5549f54aa",
+        "Name_War": [
+          "['World War II']"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p466"
+        ],
+        "_version_": 1816284451165962240,
+        "_root_": "becd0a4b-d04e-4bdd-9768-11b5549f54aa",
+        "score": 4.7703595
+      },
+      {
+        "ID": [
+          "Poland1939"
+        ],
+        "Country": [
+          "Poland"
+        ],
+        "Latitude": [
+          51.919438
+        ],
+        "Longitude": [
+          19.145136
+        ],
+        "Name": [
+          "Poland"
+        ],
+        "Year": [
+          1939
+        ],
+        "Participants": [
+          "['German', 'Poland', 'Polish']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "Poland"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The invasion of Poland, also known as the September Campaign, Polish Campaign, War of Poland of 1939, and Polish Defensive War of 1939 (1 September \u2013 6 October 1939), was a joint attack on the Republic of Poland by Nazi Germany, the Slovak Republic, and the Soviet Union, which marked the beginning of World War II. The German invasion began on 1 September 1939, one week after the signing of the Molotov\u2013Ribbentrop Pact between Germany and the Soviet Union, and one day after the Supreme Soviet of the Soviet Union had approved the pact. One of the aims of the invasion was to divide Polish territory at the end of the operation; Poland was to cease to exist as a country and all Poles (\"inferior people\") were to be exterminated.  The Soviets invaded Poland on 17 September. The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the German\u2013Soviet Frontier Treaty. The invasion is also known in Poland as the September campaign (Polish: kampania wrze\u015bniowa) or 1939 defensive war (Polish: wojna obronna 1939 roku) and known in Germany as the Poland campaign (German: \u00dcberfall auf Polen, Polenfeldzug)."
+        ],
+        "id": "87994048-bc06-4ada-be22-620b8e166270",
+        "Name_War": [
+          "World War II"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p435; Chasseaud, Peter, Mapping the Second World War, p22"
+        ],
+        "_version_": 1816284455587807232,
+        "_root_": "87994048-bc06-4ada-be22-620b8e166270",
+        "score": 4.69437
+      },
+      {
+        "ID": [
+          "Caucasus1942-1943"
+        ],
+        "Country": [
+          "Russia"
+        ],
+        "Latitude": [
+          43.5851814
+        ],
+        "Longitude": [
+          45.0
+        ],
+        "Name": [
+          "Caucasus"
+        ],
+        "Year": [
+          1942
+        ],
+        "Participants": [
+          "['Germans', 'Russian', 'Stalingrad']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "No"
+        ],
+        "Description": [
+          "The Battle of the Caucasus was a series of Axis and Soviet operations in the Caucasus as part of the Eastern Front of World War II. On 25 July 1942, German troops captured Rostov-on-Don, opening the Caucasus region of the southern Soviet Union to the Germans and threatening the oil fields beyond at Maikop, Grozny, and ultimately Baku. Two days prior, Adolf Hitler had issued a directive to launch an operation into the Caucasus named Operation Edelwei\u00df. German units would reach their high water mark in the Caucasus in early November 1942, getting as far as the town of Alagir and city of Ordzhonikidze, some 610 km from their starting positions. Axis forces were compelled to withdraw from the area later that winter as Operation Little Saturn threatened to cut them off."
+        ],
+        "id": "f9932b61-80c1-400e-b0da-79c4613d175c",
+        "Name_War": [
+          "['World War II']"
+        ],
+        "Lehmann_Zhukov_Scale": [
+          6.0
+        ],
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p814; Liddel Hart, History of the Second World War, p273"
+        ],
+        "_version_": 1816284451918839808,
+        "_root_": "f9932b61-80c1-400e-b0da-79c4613d175c",
+        "score": 4.4522104
+      },
+      {
+        "ID": [
+          "Budapest1919"
+        ],
+        "Country": [
+          "Hungary"
+        ],
+        "Latitude": [
+          47.497912
+        ],
+        "Longitude": [
+          19.040235
+        ],
+        "Name": [
+          "Budapest"
+        ],
+        "Year": [
+          1919
+        ],
+        "Participants": [
+          "['Budapest', 'Hungarian', 'Hungary', 'Stalinist', 'Tisza', 'Vienna']"
+        ],
+        "Winner": [
+          "Romania"
+        ],
+        "Loser": [
+          "Hungary"
+        ],
+        "Theatre": [
+          "Land"
+        ],
+        "Massacre": [
+          "Battle followed by massacre"
+        ],
+        "Description": [
+          "The siege of Budapest or battle of Budapest was the 50-day-long encirclement by Soviet and Romanian forces of the Hungarian capital of Budapest, near the end of World War II. Part of the broader Budapest Offensive, the siege began when Budapest, defended by Hungarian and German troops, was encircled on 26 December 1944 by the Red Army and the Romanian Army. During the siege, about 38,000 civilians died through starvation, military action, and mass executions of Jews by the far-right Hungarian nationalist Arrow Cross Party. The city unconditionally surrendered on 13 February 1945. It was a strategic victory for the Allies in their push towards Berlin."
+        ],
+        "id": "fb001cae-c3b8-42fe-a01d-be2cd52598db",
+        "Name_War": [
+          "Hungarian-Romanian War"
+        ],
+        "_version_": 1816284451520380928,
+        "_root_": "fb001cae-c3b8-42fe-a01d-be2cd52598db",
+        "score": 4.1308346
+      }
+    ]
+  }
+}

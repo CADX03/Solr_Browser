@@ -1,0 +1,10 @@
+{
+    "query": "Massacres in (Afghanistan OR United States)",
+    "params": {
+        "q.op": "AND",
+        "fl": "*,score",
+        "start": 0,
+        "rows": 30,
+        "df": "Description"
+    }
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battle Detail - {{ battle.ID }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style2.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="http://127.0.0.1:8000/"><div class="logo">WIKI WAR</div></a>
+    </nav>
+
+
+    <div class="battle-detail">
+        <h1 class="battle-title">Battle Detail: {{ battle.ID }}</h1>      
+
+        <div class="battle-info">
+            <p class="label">Name:</p>
+            <p class="value">{{ battle.Name }}</p>
+        </div>
+        
+        <div class="battle-info">
+            <p class="label">Name War:</p>
+            <p class="value">{{ battle.Name_War }}</p>
+        </div>
+
+
+        <div class="battle-info">
+            <p class="label">Description:</p>
+            <p class="value">{{ battle.Description }}</p>
+        </div>
+        
+        <div class="battle-info">
+            <p class="label">Year:</p>
+            <p class="value">{{ battle.Year }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Participants:</p>
+            <p class="value">{{ battle.Participants }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Country:</p>
+            <p class="value">{{ battle.Country }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Winner:</p>
+            <p class="value">{{ battle.Winner }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Loser:</p>
+            <p class="value">{{ battle.Loser }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Theatre:</p>
+            <p class="value">{{ battle.Theatre }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Massacre:</p>
+            <p class="value">{{ battle.Massacre }}</p>
+        </div>
+
+        <div class="battle-info">
+            <p class="label">Coordinates:</p>
+            <p class="value">Latitude: {{ battle.Latitude }}, Longitude: {{ battle.Longitude }}</p>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>&copy; <span id="year"></span> WikiWar. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>

@@ -1,0 +1,826 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 3,
+    "params": {
+      "json": "{\"query\": \"Massacres in (Germany OR United States)\", \"params\": {\"fl\": \"*,score\", \"start\": 0, \"rows\": 30, \"df\": \"Description\"}}"
+    }
+  },
+  "response": {
+    "numFound": 6175,
+    "start": 0,
+    "maxScore": 6.67767,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": "Bad Axe1832",
+        "Country": "United States",
+        "Latitude": 43.520264,
+        "Longitude": -91.23111,
+        "Name": "Bad Axe",
+        "Year": 1832,
+        "Participants": [
+          "['Mississippi', 'Victory', 'Wisconsin']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sauk Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Bad Axe Massacre was a massacre of Sauk (Sac) and Meskwaki (Fox) Native Americans by United States Army regulars and militia that occurred on August 1\u20132, 1832. This final scene of the Black Hawk War took place near present-day Victory, Wisconsin, in the United States. It marked the end of the war between white settlers and militia in Illinois and Michigan Territory, and the Sauk and Fox tribes under warrior Black Hawk.",
+        "id": "5f80f523-59b7-43ea-b4ba-47ad70ca3276",
+        "Name_War": "['Indian War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282374849167361,
+        "_root_": "5f80f523-59b7-43ea-b4ba-47ad70ca3276",
+        "score": 6.67767
+      },
+      {
+        "ID": "Santa Isabel, Sonora1916",
+        "Country": "Mexico",
+        "Latitude": 29.119148,
+        "Longitude": -110.98696,
+        "Name": "Santa Isabel, Sonora",
+        "Year": 1916,
+        "Participants": [
+          "['American', 'Santa', 'Santa Isabel', 'Sonora', 'the United States']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "With rebel leader Francisco (Pancho) Villa isolated after the Mexican Revolution, his ally Colonel Pablo L\u00f3pez ambushed a train at Santa Isabel in Sonora, murdering American mining engineer Charles R. Watson and 16 others. L\u00f3pez (later executed by government forces) claimed the massacre was ordered by Villa, who raided into the United States two months later at Columbus.",
+        "id": "3f52be22-d2b8-4802-b0f0-5577cf302c7a",
+        "Name_War": "Villa's Raids",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375825391617,
+        "_root_": "3f52be22-d2b8-4802-b0f0-5577cf302c7a",
+        "score": 5.337348
+      },
+      {
+        "ID": "Frenchtown1813",
+        "Country": "United States",
+        "Latitude": 41.918835,
+        "Longitude": -83.42286,
+        "Name": "Frenchtown",
+        "Year": 1813,
+        "Participants": [
+          "['American', 'British', 'Detroit', 'Indians', 'Michigan']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battles of Frenchtown, also known as the Battle of the River Raisin and the River Raisin Massacre, were a series of conflicts in Michigan Territory that took place from January 18\u201323, 1813, during the War of 1812. It was fought between the United States of America and a joint force of British and Native Americans near the River Raisin in Frenchtown (present-day Monroe, Michigan).",
+        "id": "fe999c6f-25b7-4f8d-9e6c-09d393e73e18",
+        "Name_War": "War of 1812",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p570"
+        ],
+        "_version_": 1816282375335706633,
+        "_root_": "fe999c6f-25b7-4f8d-9e6c-09d393e73e18",
+        "score": 5.130077
+      },
+      {
+        "ID": "Fort Dearborn1812",
+        "Country": "United States",
+        "Latitude": 41.88805,
+        "Longitude": -87.62697,
+        "Name": "Fort Dearborn",
+        "Year": 1812,
+        "Participants": [
+          "['American', 'British', 'Chicago', 'Detroit']"
+        ],
+        "Winner": [
+          "Massacre"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "The Battle of Fort Dearborn (sometimes called the Fort Dearborn Massacre) was an engagement between United States troops and Potawatomi Native Americans that occurred on August 15, 1812, near Fort Dearborn in what is now Chicago, Illinois (at that time, part of the Illinois Territory). The battle, which occurred during the War of 1812, followed the evacuation of the fort as ordered by the commander of the United States Army of the Northwest, William Hull. The battle lasted about 15 minutes and resulted in a complete victory for the Native Americans. After the battle, Fort Dearborn was burned down. Some of the soldiers and settlers who had been taken captive were later ransomed.",
+        "id": "01a4412b-2fa0-4376-bcbb-dd68fac9c42f",
+        "Name_War": "War of 1812",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p568"
+        ],
+        "_version_": 1816282375319977990,
+        "_root_": "01a4412b-2fa0-4376-bcbb-dd68fac9c42f",
+        "score": 5.0323877
+      },
+      {
+        "ID": "Ash Hollow1855",
+        "Country": "United States",
+        "Latitude": 41.24693,
+        "Longitude": -102.19783,
+        "Name": "Ash Hollow",
+        "Year": 1855,
+        "Participants": [
+          "['Fort Laramie', 'Fort Leavenworth', 'Indian', 'Nebraska']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sioux"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The Battle of Ash Hollow, also known as the Battle of Blue Water Creek or the Harney Massacre, was an engagement of the First Sioux War, fought on September 2 and 3, 1855, between United States Army soldiers under Brig. Gen. William S. Harney and a band of the Brul\u00e9 Lakota along the Platte River in present-day Garden County, Nebraska. In the 20th century, the town of Lewellen, Nebraska, was developed here as a railroad stop.",
+        "id": "8239f8b5-54f8-4f30-ade6-03d740e3d99f",
+        "Name_War": "Sioux Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p601"
+        ],
+        "_version_": 1816282374808272897,
+        "_root_": "8239f8b5-54f8-4f30-ade6-03d740e3d99f",
+        "score": 4.789328
+      },
+      {
+        "ID": "Fort Driant1944",
+        "Country": "France",
+        "Latitude": 49.08677,
+        "Longitude": 6.078924,
+        "Name": "Fort Driant",
+        "Year": 1944,
+        "Participants": [
+          "['American']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Fort Driant was a constituent battle in the 1944 Battle of Metz, during the Lorraine Campaign and the greater Siegfried Line Campaign. The battle was on occupied French territory between the forces of the United States Third Army under the command of General George S. Patton and the forces of Nazi Germany under General Otto von Knobelsdorff and was given the code name Operation thunderbolt.",
+        "id": "bd9de3db-e424-4845-8ec8-9364a3d7428b",
+        "Name_War": "World War II",
+        "_version_": 1816282375321026566,
+        "_root_": "bd9de3db-e424-4845-8ec8-9364a3d7428b",
+        "score": 4.780989
+      },
+      {
+        "ID": "Dudleys Defeat1813",
+        "Country": "United States",
+        "Latitude": 41.551254,
+        "Longitude": -83.65341,
+        "Name": "Dudleys Defeat",
+        "Year": 1813,
+        "Participants": [
+          "['British', 'Dudleys', 'Kentucky']"
+        ],
+        "Winner": [
+          "United Kingdom"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The War of 1812 was fought by the United States and its allies against the United Kingdom and its allies in North America. It began when the United States declared war on Britain on 18 June 1812. Although peace terms were agreed upon in the December 1814 Treaty of Ghent, the war did not officially end until the peace treaty was ratified by the United States Congress on 17 February 1815.",
+        "id": "f56830ae-8810-47bf-a960-d6d344cfc99a",
+        "Name_War": "War of 1812",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282375272792067,
+        "_root_": "f56830ae-8810-47bf-a960-d6d344cfc99a",
+        "score": 4.7646313
+      },
+      {
+        "ID": "Balangiga1900",
+        "Country": "Philippines",
+        "Latitude": 11.209217,
+        "Longitude": 125.36857,
+        "Name": "Balangiga",
+        "Year": 1900,
+        "Participants": [
+          "['American', 'Balangiga', 'Samar']"
+        ],
+        "Winner": [
+          "Philippines"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Yes",
+        "Description": "The Balangiga massacre was an incident in which the residents of the town of Balangiga on the island of Samar conducted a surprise attack on an occupying unit of the US 9th Infantry, killing 54. The incident is also known as the Balangiga encounter, Balangiga incident, or Balangiga conflict. The incident occurred on September 28, 1901, over five months after the April 19 publication of a \"Peace Manifesto\" by Emilio Aguinaldo acknowledging and accepting the sovereignty of the United States throughout the Philippines. Some Filipino historians have asserted that the term Balangiga Massacre more appropriately refers to actions ordered in retaliation by American General Jacob H. Smith  during the pacification of Samar that resulted in an estimated 2,000 Filipino civilians killed and over 200 homes burned.",
+        "id": "07d6085b-a9fa-46b5-950f-3397c419ca88",
+        "Name_War": "Philippine-American War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816282374863847427,
+        "_root_": "07d6085b-a9fa-46b5-950f-3397c419ca88",
+        "score": 4.6117053
+      },
+      {
+        "ID": "Herat1221-1222",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1221,
+        "Participants": [
+          "['Khwarezmian', 'Mongol', 'Nishapur']"
+        ],
+        "Winner": [
+          "Mongol"
+        ],
+        "Loser": [
+          "Khwarezmian"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "cdc6bace-6b67-4651-aaef-b8e094fdcec5",
+        "Name_War": "Conquests of Genghis Khan",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p114"
+        ],
+        "_version_": 1816282375420641287,
+        "_root_": "cdc6bace-6b67-4651-aaef-b8e094fdcec5",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1383",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1383,
+        "Participants": [
+          "['Afghanistan', 'Herat', 'Iran', 'Kandahar', 'Khorasan', 'Persia']"
+        ],
+        "Winner": [
+          "Timurid Empire"
+        ],
+        "Loser": [
+          "Herat"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "847edb31-dae4-4b94-a256-870558793acb",
+        "Name_War": "Conquests of Tamerlane",
+        "_version_": 1816282375420641288,
+        "_root_": "847edb31-dae4-4b94-a256-870558793acb",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1507",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1507,
+        "Participants": [
+          "['Shaybani', 'Uzbek']"
+        ],
+        "Winner": [
+          "Uzbeks"
+        ],
+        "Loser": [
+          "Timurid Mughals"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "a3478a83-3e52-423d-9b0e-526aea79f4c7",
+        "Name_War": "Mughal Uzbek Wars",
+        "_version_": 1816282375421689856,
+        "_root_": "a3478a83-3e52-423d-9b0e-526aea79f4c7",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1528",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1528,
+        "Participants": [
+          "['Afghanistan', 'Balkh', 'Herat', 'Khorasan', 'Persia', 'Persian', 'Persians', 'Samarkand', 'Uzbek']"
+        ],
+        "Winner": [
+          "Persia"
+        ],
+        "Loser": [
+          "Uzbeks"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "ee9521d2-801a-4627-8ffb-7a193e41399c",
+        "Name_War": "Persian-Uzbek Wars",
+        "_version_": 1816282375421689857,
+        "_root_": "ee9521d2-801a-4627-8ffb-7a193e41399c",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1588",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1588,
+        "Participants": [
+          "['Mughal Empire', 'Uzbeks']"
+        ],
+        "Winner": [
+          "Uzbeks"
+        ],
+        "Loser": [
+          "Mughal Empire"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "44b3d56c-3a36-45a7-8714-45b3ab07ef10",
+        "Name_War": "Mughal Uzbek Wars",
+        "_version_": 1816282375421689858,
+        "_root_": "44b3d56c-3a36-45a7-8714-45b3ab07ef10",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1719",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1719,
+        "Participants": [
+          "['Farah', 'Kariz', 'Persian', 'Persians']"
+        ],
+        "Winner": [
+          "Afghanistan"
+        ],
+        "Loser": [
+          "Persia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "d23792ad-94df-423e-b5f3-94c9dc86deb7",
+        "Name_War": "Persian-Afghan Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p114"
+        ],
+        "_version_": 1816282375421689859,
+        "_root_": "d23792ad-94df-423e-b5f3-94c9dc86deb7",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1729",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1729,
+        "Participants": [
+          "['Abdali Afghans', 'Afghan', 'Kafir Qala', 'Kusuya', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Persia"
+        ],
+        "Loser": [
+          "Afghanistan"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "f598bc27-d4a9-496e-a608-cb18709daeed",
+        "Name_War": "Persian-Afghan Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p114"
+        ],
+        "_version_": 1816282375421689860,
+        "_root_": "f598bc27-d4a9-496e-a608-cb18709daeed",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1731-1732",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1731,
+        "Participants": [
+          "['Abdali Afghans', 'Afghan', 'Armenia', 'Herat', 'Persian', 'Turkish']"
+        ],
+        "Winner": [
+          "Persia"
+        ],
+        "Loser": [
+          "Afghanistan"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "7f41dabe-af80-4f4b-bbc0-eb30cb6be709",
+        "Name_War": "Persian-Afghan Wars",
+        "_version_": 1816282375421689861,
+        "_root_": "7f41dabe-af80-4f4b-bbc0-eb30cb6be709",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1750",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1750,
+        "Participants": [
+          "['Afghan', 'Herat', 'Nadirs', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Afghanistan"
+        ],
+        "Loser": [
+          "Persia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "28b19c62-ed69-4256-b14a-8b6f51b3f3d4",
+        "Name_War": "Persian-Afghan Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "_version_": 1816282375421689862,
+        "_root_": "28b19c62-ed69-4256-b14a-8b6f51b3f3d4",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1837-1838",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1837,
+        "Participants": [
+          "['Afghan', 'Afghanistan', 'Britain', 'Bushire', 'Persia', 'Persian', 'Persians']"
+        ],
+        "Winner": [
+          "Afghanistan"
+        ],
+        "Loser": [
+          "Persia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "159cb954-b236-4bc0-8c76-30c00958511e",
+        "Name_War": "Persian-Afghan Wars",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p215"
+        ],
+        "_version_": 1816282375421689863,
+        "_root_": "159cb954-b236-4bc0-8c76-30c00958511e",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1856",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1856,
+        "Participants": [
+          "['Afghanistan', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Persia"
+        ],
+        "Loser": [
+          "Afghanistan"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "c7471973-15da-476f-a9d4-ab47cf6e8f8f",
+        "Name_War": "Persian-Afghan Wars",
+        "_version_": 1816282375421689864,
+        "_root_": "c7471973-15da-476f-a9d4-ab47cf6e8f8f",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1863",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1863,
+        "Participants": [
+          "['Afghan', 'British', 'Herat', 'Yakub']"
+        ],
+        "Winner": [
+          "Afghanistan"
+        ],
+        "Loser": [
+          "Persia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "8a52e259-19f9-47ba-8a73-b2d0c9d55f35",
+        "Name_War": "Persian Afghan Wars",
+        "_version_": 1816282375421689865,
+        "_root_": "8a52e259-19f9-47ba-8a73-b2d0c9d55f35",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1870",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1870,
+        "Participants": [
+          "['Afghan', 'Herat', 'Kabul']"
+        ],
+        "Winner": [
+          "Khan Brothers"
+        ],
+        "Loser": [
+          "Ahmad Sher Ali"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "55276964-61e4-4165-8379-cd41115a01f0",
+        "Name_War": "Later Afghan War of Succession",
+        "_version_": 1816282375421689866,
+        "_root_": "55276964-61e4-4165-8379-cd41115a01f0",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Herat1978",
+        "Country": "Afghanistan",
+        "Latitude": 34.352863,
+        "Longitude": 62.20403,
+        "Name": "Herat",
+        "Year": 1978,
+        "Participants": [
+          "['Afghan', 'Herat', 'Kabul']"
+        ],
+        "Winner": [
+          "Afghanistan"
+        ],
+        "Loser": [
+          "Afghan Rebels"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 2001 uprising in Herat was a coordinated insurrection and uprising in the Afghan city of Herat as part of the United States war in Afghanistan. The city was captured on November 12 by Northern Alliance forces as well as Special Forces of the United States, the United Kingdom and the Islamic Republic of Iran.",
+        "id": "d7fe8bc1-c0cb-4618-8bb8-d21ccfff2115",
+        "Name_War": "Afghan Civil War",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p606"
+        ],
+        "_version_": 1816282375421689867,
+        "_root_": "d7fe8bc1-c0cb-4618-8bb8-d21ccfff2115",
+        "score": 4.5846186
+      },
+      {
+        "ID": "Baton Rouge1810",
+        "Country": "United States",
+        "Latitude": 30.451468,
+        "Longitude": -91.18715,
+        "Name": "Baton Rouge",
+        "Year": 1810,
+        "Participants": [
+          "['American', 'Baton Rouge', 'Florida', 'France', 'Louisiana', 'Spain', 'West Florida', 'the    United States', 'the United States']"
+        ],
+        "Winner": [
+          "Floridian Rebels"
+        ],
+        "Loser": [
+          "Spain"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Although the United States purchased Louisiana from France in 1803, Spain refused to give up the fortress at Baton Rouge. Residents and frontiersmen from nearby American territory defeated the garrison in a sharp engagement and proclaimed the independent State of West Florida. The disputed area was annexed into the United States a few weeks later.",
+        "id": "bb816fe5-1114-4fd2-ae4e-6a6a79fe502b",
+        "Name_War": "West Florida Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p241"
+        ],
+        "_version_": 1816282374897401857,
+        "_root_": "bb816fe5-1114-4fd2-ae4e-6a6a79fe502b",
+        "score": 4.519969
+      },
+      {
+        "ID": "Wisconsin Heights1832",
+        "Country": "United States",
+        "Latitude": 43.151485,
+        "Longitude": -89.81654,
+        "Name": "Wisconsin Heights",
+        "Year": 1832,
+        "Participants": [
+          "['Wisconsin', 'Wisconsin Heights']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Sauk Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Wisconsin Heights was the penultimate engagement of the 1832 Black Hawk War, fought between the United States state militia and allies, and the Sauk and Fox tribes, led by Black Hawk. The battle took place in what is now Dane County, near present-day Sauk City, Wisconsin. Despite being vastly outnumbered and sustaining heavy casualties, Black Hawk's warriors managed to delay the combined government forces long enough to allow the majority of the Sauk and Fox civilians in the group to escape across the Wisconsin River. This reprieve was temporary; when the militia finally caught up with the fleeing band it resulted in the Bad Axe massacre at the mouth of the Bad Axe River.",
+        "id": "ab4eebc1-a3c2-4565-9cd8-6f7cbd736324",
+        "Name_War": "Black Hawk War",
+        "_version_": 1816282375992115206,
+        "_root_": "ab4eebc1-a3c2-4565-9cd8-6f7cbd736324",
+        "score": 4.499776
+      },
+      {
+        "ID": "Bear River1863",
+        "Country": "United States",
+        "Latitude": 42.140785,
+        "Longitude": -111.91339,
+        "Name": "Bear River",
+        "Year": 1863,
+        "Participants": [
+          "['California', 'Idaho', 'Preston', 'Shoshoni', 'Utah']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Shoshone Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massaccre",
+        "Description": "The Bear River Massacre, or the Engagement on the Bear River, or the Battle of Bear River, or Massacre at Boa Ogoi, took place in present-day Franklin County, Idaho, on January 29, 1863. After years of skirmishes and food raids on farms and ranches, the United States Army attacked a Shoshone encampment gathered at the confluence of the Bear River and Battle Creek in what was then southeastern Washington Territory, near the present-day city of Preston. Colonel Patrick Edward Connor led a detachment of California Volunteers as part of the Bear River Expedition against Shoshone tribal chief Bear Hunter. Hundreds of Shoshone men, women, and children were killed near their lodges; the number of Shoshone victims reported by local settlers was higher than that reported by soldiers.",
+        "id": "e9d19727-b3f1-49dc-8bc7-413256519140",
+        "Name_War": "['Indian War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p602"
+        ],
+        "_version_": 1816282374902644736,
+        "_root_": "e9d19727-b3f1-49dc-8bc7-413256519140",
+        "score": 4.4455314
+      },
+      {
+        "ID": "Gela1943",
+        "Country": "Italy",
+        "Latitude": 37.074154,
+        "Longitude": 14.240354,
+        "Name": "Gela",
+        "Year": 1943,
+        "Participants": [
+          "['American', 'Sicily']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Germany, Italy"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The amphibious Battle of Gela was the opening engagement of the American portion of the Allied Invasion of Sicily during World War II. United States Navy ships landed United States Army troops along the eastern end of the south coast of Sicily; and withstood attacks by Luftwaffe and Regia Aeronautica aircraft while defending the beachhead against German tanks and Italian tanks of the Livorno Division until the Army captured the Ponte Olivo Airfield for use by United States Army Air Forces planes. The battle convinced United States Army officers of the value of naval artillery support, and revealed problems coordinating air support from autonomous air forces during amphibious operations.",
+        "id": "c31b78c8-b45d-427c-91d4-e80ae151e967",
+        "Name_War": "World War II",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p467"
+        ],
+        "_version_": 1816282375350386688,
+        "_root_": "c31b78c8-b45d-427c-91d4-e80ae151e967",
+        "score": 4.349229
+      },
+      {
+        "ID": "Fort Recovery1794",
+        "Country": "United States",
+        "Latitude": 40.411064,
+        "Longitude": -84.78828,
+        "Name": "Fort Recovery",
+        "Year": 1794,
+        "Participants": [
+          "['Celina', 'Miami']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Miami Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Fort Recovery, 30 June \u2013 1 July 1794, was a battle of the Northwest Indian War, fought at the present-day village of Fort Recovery, Ohio.  A large force of warriors in the Western Confederacy attacked a fort held by United States soldiers deep in Ohio Country.  The United States suffered heavy losses, but maintained control of the fort.  The battle exposed a division in the Western Confederacy's military strategy at a time when they seemed to hold the advantage, and the United States pressed farther into the Northwest Territory.",
+        "id": "0aa06143-c54d-4257-8a0b-b540902b359d",
+        "Name_War": "Little Turtle's War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Conflict, Showalter, 2014, p476; https://ohiohistorycentral.org/w/Siege_of_Fort_Recovery"
+        ],
+        "_version_": 1816282375328366597,
+        "_root_": "0aa06143-c54d-4257-8a0b-b540902b359d",
+        "score": 4.3471727
+      },
+      {
+        "ID": "Saltville (1st)1864",
+        "Country": "United States",
+        "Latitude": 36.881504,
+        "Longitude": -81.76206,
+        "Name": "Saltville (1st)",
+        "Year": 1864,
+        "Participants": [
+          "['Kentucky', 'Virginia']"
+        ],
+        "Winner": [
+          "Confederate States of America"
+        ],
+        "Loser": [
+          "United States"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The First Battle of Saltville (October 2, 1864) was fought near the town of Saltville, Virginia, during the American Civil War. The battle over significant Confederate saltworks in town was fought by both regular and Home Guard Confederate units against regular U.S. Army troops, which included two of the few black cavalry units of the United States Colored Troops. U.S. Army Brig. Gen. Stephen G. Burbridge, then commander of U.S. forces in the Commonwealth of Kentucky, led the U.S. Army troops. Confederates murdered both black and white wounded soldiers after the battle, in what has been called the Saltville Massacre.[",
+        "id": "fe4c3857-1493-41f1-ac6b-8a0aff89b510",
+        "Name_War": "American Civil War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p288"
+        ],
+        "_version_": 1816282375812808706,
+        "_root_": "fe4c3857-1493-41f1-ac6b-8a0aff89b510",
+        "score": 4.3398523
+      },
+      {
+        "ID": "Four Lakes1858",
+        "Country": "United States",
+        "Latitude": 47.561275,
+        "Longitude": -117.60286,
+        "Name": "Four Lakes",
+        "Year": 1858,
+        "Participants": [
+          "['Coer', 'Indian', 'Indians', 'Palouses', 'Washington']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Coer d'Alanes Indians, Spokane Indians, Palouses Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Four Lakes was a battle during the Coeur d'Alene War of 1858 in the Washington Territory (now the states of Washington and Idaho) in the United States. The Coeur d'Alene War was part of the Yakima War, which began in 1855. The battle was fought near present-day Four Lakes, Washington, between elements of the United States Army and a coalition of Native American tribes consisting of Schitsu'umsh (Coeur d'Alene), Palus, Spokan, and Yakama warriors.",
+        "id": "e7e4695b-e5e8-4fb8-af29-c2925a5aa758",
+        "Name_War": "Yakima Indian Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p258"
+        ],
+        "_version_": 1816282375332560903,
+        "_root_": "e7e4695b-e5e8-4fb8-af29-c2925a5aa758",
+        "score": 4.2026043
+      },
+      {
+        "ID": "Khe Sanh1967",
+        "Country": "Vietnam",
+        "Latitude": 16.606306,
+        "Longitude": 106.695946,
+        "Name": "Khe Sanh",
+        "Year": 1967,
+        "Participants": [
+          "['Laos', 'North Vietnamese', 'US']"
+        ],
+        "Winner": [
+          "United States, South Vietnam"
+        ],
+        "Loser": [
+          "Viet Cong"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Khe Sanh (21 January \u2013 9 July 1968) was conducted in the Khe Sanh area of northwestern Qu\u1ea3ng Tr\u1ecb Province, Republic of Vietnam (South Vietnam), during the Vietnam War. The main US forces defending Khe Sanh Combat Base (KSCB) were two regiments of the United States Marine Corps supported by elements from the United States Army and the United States Air Force (USAF), as well as a small number of Army of the Republic of Vietnam (ARVN) troops. These were pitted against two to three divisional-size elements of the North Vietnamese People's Army of Vietnam (PAVN).",
+        "id": "71f7af62-2cc8-4de5-a885-7df7535319e6",
+        "Name_War": "Vietnman War",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p886"
+        ],
+        "_version_": 1816282375506624513,
+        "_root_": "71f7af62-2cc8-4de5-a885-7df7535319e6",
+        "score": 4.172447
+      }
+    ]
+  }
+}

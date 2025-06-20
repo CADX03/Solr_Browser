@@ -1,0 +1,15 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 3,
+    "params": {
+      "json": "{\"query\": \"Russia World War II\", \"params\": {\"q.op\": \"AND\", \"start\": 0, \"rows\": 30}}"
+    }
+  },
+  "response": {
+    "numFound": 0,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": []
+  }
+}

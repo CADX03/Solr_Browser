@@ -1,0 +1,855 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 8,
+    "params": {
+      "json": "{\"query\": \"summer\", \"params\": {\"q.op\": \"AND\", \"fl\": \"*,score\", \"start\": 0, \"rows\": 30, \"defType\": \"edismax\", \"qf\": \"Description^5 Participants^4 Country^3 Name_War^2 Winner\"}}"
+    }
+  },
+  "response": {
+    "numFound": 54,
+    "start": 0,
+    "maxScore": 13.4526005,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "ID": "Ba Gia1965",
+        "Country": "Vietnam",
+        "Latitude": 14.805493,
+        "Longitude": 108.59396,
+        "Name": "Ba Gia",
+        "Year": 1965,
+        "Participants": [
+          "['American', 'Ba', 'the United States']"
+        ],
+        "Winner": [
+          "United States, South Vietnam"
+        ],
+        "Loser": [
+          "North Vietnam"
+        ],
+        "Theatre": "Land and Air",
+        "Massacre": "No",
+        "Description": "The Battle of Ba Gia was a major battle that marked the beginning of the Viet Cong's (VC) Summer Offensive of 1965, during the early phases of the Vietnam War. The battle took place in Qu\u1ea3ng Ng\u00e3i Province, South Vietnam, between May 28\u201331, 1965.",
+        "id": "86b24563-4c4e-48dc-a476-8408cce36e80",
+        "Name_War": "['y Vietnam War']",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p671"
+        ],
+        "_version_": 1816263385387368450,
+        "_root_": "86b24563-4c4e-48dc-a476-8408cce36e80",
+        "score": 13.4526005
+      },
+      {
+        "ID": "Dong Xoai1965",
+        "Country": "Vietnam",
+        "Latitude": 11.333196,
+        "Longitude": 107.20283,
+        "Name": "Dong Xoai",
+        "Year": 1965,
+        "Participants": [
+          "['Saigon', 'US']"
+        ],
+        "Winner": [
+          "South Vietnam"
+        ],
+        "Loser": [
+          "Viet Cong"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of \u0110\u1ed3ng Xo\u00e0i (Vietnamese: Tr\u1eadn \u0110\u1ed3ng Xo\u00e0i) was a major battle fought during the Vietnam War as part of the Viet Cong (VC) Summer Offensive of 1965. It took place in Ph\u01b0\u1edbc Long Province, South Vietnam, between June 9 and 13, 1965.",
+        "id": "8ed3288c-f0ef-4176-a0c2-5a6afded2551",
+        "Name_War": "Vietnam War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p671"
+        ],
+        "_version_": 1816263385900122115,
+        "_root_": "8ed3288c-f0ef-4176-a0c2-5a6afded2551",
+        "score": 13.4526005
+      },
+      {
+        "ID": "Kashii1615",
+        "Country": "Japan",
+        "Latitude": 34.231396,
+        "Longitude": 135.13849,
+        "Name": "Kashii",
+        "Year": 1615,
+        "Participants": [
+          "['Hideyori', 'Ieyasu']"
+        ],
+        "Winner": [
+          "Ieyasu"
+        ],
+        "Loser": [
+          "Hideyori"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Kashii (\u6a2b\u4e95\u306e\u6226\u3044) was the very first battle of the Summer Campaign of the 1615 Siege of Osaka, near the beginning of the Edo period in Japan. It took place on the 26th day of the 4th month of the Keich\u014d era.",
+        "id": "b660ac36-25ef-4c46-89e9-b430596c6103",
+        "Name_War": "Japan's Warring States Period",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p337"
+        ],
+        "_version_": 1816263386256637959,
+        "_root_": "b660ac36-25ef-4c46-89e9-b430596c6103",
+        "score": 13.095427
+      },
+      {
+        "ID": "Holy Ground1813",
+        "Country": "United States",
+        "Latitude": 32.348293,
+        "Longitude": -86.68909,
+        "Name": "Holy Ground",
+        "Year": 1813,
+        "Participants": [
+          "['Alabama', 'American', 'Econochaca']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Creek Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Holy Ground, or Battle of Econochaca (Meaning holy ground in Creek), was fought on December 23, 1813, between the United States militia and the Red Stick Creek Indians during the Creek War. The battle took place at Econochaca, the site of a fortified encampment established in the summer of 1813 by Josiah Francis on a bluff above the Alabama River, in what is now Lowndes County, Alabama. It was one of three encampments erected by Red Stick Creeks that summer. In addition to the physical defenses, Creek prophets performed ceremonies at the site to create a spiritual barrier of protection. Hence the Creek name \"Econochaca,\" loosely translated as holy ground, but properly translated as sacred or beloved ground.",
+        "id": "b7e1a29e-2e1a-4b91-909c-c679e47b88e6",
+        "Name_War": "Creek Indian War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816263386175897603,
+        "_root_": "b7e1a29e-2e1a-4b91-909c-c679e47b88e6",
+        "score": 13.081958
+      },
+      {
+        "ID": "Sellasia-222",
+        "Country": "Greece",
+        "Latitude": 37.166668,
+        "Longitude": 22.416668,
+        "Name": "Sellasia",
+        "Year": -222,
+        "Participants": [
+          "['Cleomenes', 'Egypt', 'Macedon', 'North of Sparta', 'Peloponnese', 'Sellasia', 'Sparta']"
+        ],
+        "Winner": [
+          "Macedon"
+        ],
+        "Loser": [
+          "Sparta"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Sellasia took place during the summer of 222 BC between Macedon and the Achaean League, led by Antigonus III Doson, and Sparta under the command of King Cleomenes III. The battle was fought at Sellasia on the northern frontier of Laconia and ended in a Macedonian-Achaean victory.",
+        "id": "3c373422-ee71-4fac-9353-621a051df9b4",
+        "Name_War": "Cleomenic War",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Hutchinson's Dictionary of Ancient and Medieval Warfare, \"Sellasia, Battle of\""
+        ],
+        "_version_": 1816263386688651268,
+        "_root_": "3c373422-ee71-4fac-9353-621a051df9b4",
+        "score": 12.923859
+      },
+      {
+        "ID": "Bitlis1916",
+        "Country": "Turkey",
+        "Latitude": 38.40057,
+        "Longitude": 42.1095,
+        "Name": "Bitlis",
+        "Year": 1916,
+        "Participants": [
+          "['Erzincan', 'Russian', 'Turks']"
+        ],
+        "Winner": [
+          "Russia"
+        ],
+        "Loser": [
+          "Ottoman Empire"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Bitlis refers to a series of engagements in the summer of 1916 for the town of Bitlis and to a lesser extent nearby Mu\u015f, between Russian Imperial forces and their Ottoman counterparts. The town was the last stronghold of the Ottoman Empire preventing the Russians from entering Anatolia and Mesopotamia.",
+        "id": "338c9a21-fb9e-46b2-9de6-024ed6a6196d",
+        "Name_War": "['World War']",
+        "_version_": 1816263385523683328,
+        "_root_": "338c9a21-fb9e-46b2-9de6-024ed6a6196d",
+        "score": 12.756728
+      },
+      {
+        "ID": "Santander1812",
+        "Country": "Spain",
+        "Latitude": 43.462307,
+        "Longitude": -3.8099804,
+        "Name": "Santander",
+        "Year": 1812,
+        "Participants": [
+          "['British', 'French', 'Mendizabal', 'Spain']"
+        ],
+        "Winner": [
+          "United Kingdom, Spain"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land and Sea",
+        "Massacre": "No",
+        "Description": "The Battle of Santander was fought in the War in the North campaign of the Spanish Civil War during the summer of 1937. Santander's fall on 26 August assured the Nationalist conquest of the province of Santander, now Cantabria. The battle devastated the Republic's \"Army of the North\"; 60,000 soldiers were captured by the Nationalists.",
+        "id": "3fad83d0-2b1c-4459-8313-c7b2f86bef0d",
+        "Name_War": "Napoleonic Wars",
+        "_version_": 1816263386670825472,
+        "_root_": "3fad83d0-2b1c-4459-8313-c7b2f86bef0d",
+        "score": 12.593864
+      },
+      {
+        "ID": "Santander1937",
+        "Country": "Spain",
+        "Latitude": 43.462307,
+        "Longitude": -3.8099804,
+        "Name": "Santander",
+        "Year": 1937,
+        "Participants": [
+          "['Basque', 'Bilbao', 'France', 'Republican', 'Spanish']"
+        ],
+        "Winner": [
+          "Nationalists"
+        ],
+        "Loser": [
+          "Republicans"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Santander was fought in the War in the North campaign of the Spanish Civil War during the summer of 1937. Santander's fall on 26 August assured the Nationalist conquest of the province of Santander, now Cantabria. The battle devastated the Republic's \"Army of the North\"; 60,000 soldiers were captured by the Nationalists.",
+        "id": "16931080-49b8-404a-820e-a9622ddb26ea",
+        "Name_War": "Spanish Civil War",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p799"
+        ],
+        "_version_": 1816263386670825473,
+        "_root_": "16931080-49b8-404a-820e-a9622ddb26ea",
+        "score": 12.593864
+      },
+      {
+        "ID": "Vasa1808",
+        "Country": "Finland",
+        "Latitude": 63.09509,
+        "Longitude": 21.616457,
+        "Name": "Vasa",
+        "Year": 1808,
+        "Participants": [
+          "['Finland', 'Napoleonic', 'Russian', 'Siikajoki', 'Sweden', 'Swedes', 'Swedish']"
+        ],
+        "Winner": [
+          "Draw"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Supporting the Swedish summer offensive down the west coast of Finland from Siikajoki, Swedish General Johan Bergenstrahle landed against General Nikolai Demidoff\u2019s Russian invaders at Vasa. The main Swedish army was unable to send aid from nearby Nykarleby and the outnumbered Swedes evacuated by sea. The port was recaptured for Sweden a few days later.",
+        "id": "f7f748c8-b742-47be-b574-7fb7352216ff",
+        "Name_War": "Napoleonic Wars",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p566"
+        ],
+        "_version_": 1816263386819723266,
+        "_root_": "f7f748c8-b742-47be-b574-7fb7352216ff",
+        "score": 12.593864
+      },
+      {
+        "ID": "Lahijan1757",
+        "Country": "Iran",
+        "Latitude": 37.207073,
+        "Longitude": 50.00337,
+        "Name": "Lahijan",
+        "Year": 1757,
+        "Participants": [
+          "['Azerbaijan', 'Caspian', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Mohammad Kasan Khan of Qajar"
+        ],
+        "Loser": [
+          "Azad Khan of Afghanistan"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "Mohammad Hasan Khan of Qajar led a brilliant winter offensive south of the Caspian, where he suddenly assaulted his rival Azad Khan Afghan who had advanced into Persia from Azerbaijan. Attacking at Rudsar, Mohammad Hasan routed the garrison at nearby Lahijan, then took Rasht. Azad fled with terrible losses and was defeated again in the summer at Urmiya.",
+        "id": "89d8784e-3f04-4461-8fe0-e064583a31bb",
+        "Name_War": "Persian Wars of Succession",
+        "_version_": 1816263386309066757,
+        "_root_": "89d8784e-3f04-4461-8fe0-e064583a31bb",
+        "score": 12.435106
+      },
+      {
+        "ID": "Dharmat1658",
+        "Country": "India",
+        "Latitude": 22.997972,
+        "Longitude": 75.641174,
+        "Name": "Dharmat",
+        "Year": 1658,
+        "Participants": [
+          "['Dharmat', 'Ujjain']"
+        ],
+        "Winner": [
+          "Aurangzeb"
+        ],
+        "Loser": [
+          "Rajput Marwar"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The battle of Dharmat was fought during the Mughal war of succession (1658\u20131659) by Aurangzeb against Jaswant Singh Rathore who was allied with the Mughal prince Dara Shikoh. The battle was fought on the open plain of Dharmat on the hot Summer day of 15 April 1658 in which Aurangzeb won a decisive victory due to advantage in artillery and tactics.",
+        "id": "c9c59b6e-b1f4-4c6e-98d0-2cb9ce4ad662",
+        "Name_War": "War of the Mughal Princes",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p63"
+        ],
+        "_version_": 1816263385881247748,
+        "_root_": "c9c59b6e-b1f4-4c6e-98d0-2cb9ce4ad662",
+        "score": 12.129305
+      },
+      {
+        "ID": "Capri, 1815",
+        "Country": "Italy",
+        "Latitude": 44.778767,
+        "Longitude": 10.841737,
+        "Name": "Carpi",
+        "Year": 1815,
+        "Participants": [
+          "['Habsburg Empire', 'Kingdom of Naples']"
+        ],
+        "Winner": [
+          "Habsburg Empire"
+        ],
+        "Loser": [
+          "Kingdom of Naples"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Carpi was a series of engagements in the summer of 1701, and the first battle of the War of the Spanish Succession that took place on 9 July 1701 between France and Austria. It was a minor skirmish that the French commander decided was not worth fighting, but his soldiers were displeased at his decision to retreat, and he was subsequently replaced.",
+        "id": "790f74e4-29f4-4d84-b2f5-8a568eefbc74",
+        "Name_War": "Napoleonic Wars (100 Days Campaign)",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p559"
+        ],
+        "_version_": 1816263385656852482,
+        "_root_": "790f74e4-29f4-4d84-b2f5-8a568eefbc74",
+        "score": 11.838183
+      },
+      {
+        "ID": "Carpi1701",
+        "Country": "Italy",
+        "Latitude": 44.78388,
+        "Longitude": 10.8796625,
+        "Name": "Carpi",
+        "Year": 1701,
+        "Participants": [
+          "['French', 'Legnago', 'Oglio']"
+        ],
+        "Winner": [
+          "Austria"
+        ],
+        "Loser": [
+          "Spain"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Carpi was a series of engagements in the summer of 1701, and the first battle of the War of the Spanish Succession that took place on 9 July 1701 between France and Austria. It was a minor skirmish that the French commander decided was not worth fighting, but his soldiers were displeased at his decision to retreat, and he was subsequently replaced.",
+        "id": "8604692e-ee81-4aa0-906d-61bbbb60983f",
+        "Name_War": "War of the Spanish Succession",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "The Field and the Forge: Population, Production and Power in the Pre Industrial West, John Landers, Oxford 2003"
+        ],
+        "_version_": 1816263385664192513,
+        "_root_": "8604692e-ee81-4aa0-906d-61bbbb60983f",
+        "score": 11.838183
+      },
+      {
+        "ID": "Pelagonia1259",
+        "Country": "Macedonia",
+        "Latitude": 41.02968,
+        "Longitude": 21.329216,
+        "Name": "Pelagonia",
+        "Year": 1259,
+        "Participants": [
+          "['Constantinople', 'Frankish', 'German', 'Greek', 'Latin', 'Latin-Byzantine', 'Macedonia', 'Pelagonia']"
+        ],
+        "Winner": [
+          "Byzantine Nicea"
+        ],
+        "Loser": [
+          "Epirus, Latin Byzantium, Sicily, Villehardouin"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Pelagonia or Battle of Kastoria took place in early summer or autumn 1259, between the Empire of Nicaea and an anti-Nicaean alliance comprising Despotate of Epirus, Kingdom of Sicily and the Principality of Achaea. It was a decisive event in the history of the Eastern Mediterranean, ensuring the eventual reconquest of Constantinople and the end of the Latin Empire in 1261. ",
+        "id": "aedd0ac4-f47f-456b-a85c-53d9e41b3f3b",
+        "Name_War": "3rd Latin Byzantine War",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Hutchinson's Dictionary of Ancient and Medieval Warfare, \"Pelagonia, Battle of\""
+        ],
+        "_version_": 1816263386556530688,
+        "_root_": "aedd0ac4-f47f-456b-a85c-53d9e41b3f3b",
+        "score": 11.838183
+      },
+      {
+        "ID": "Walcourt1689",
+        "Country": "Belgium",
+        "Latitude": 50.253857,
+        "Longitude": 4.4349217,
+        "Name": "Walcourt",
+        "Year": 1689,
+        "Participants": [
+          "['French', 'Spanish', 'Spanish-German', 'Waldeck']"
+        ],
+        "Winner": [
+          "Spain, Habsburg Empire, England"
+        ],
+        "Loser": [
+          "France"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Walcourt was fought on 25 August 1689 during the Nine Years' War. The action took place near the ancient walled town of Walcourt near Charleroi in the Spanish Netherlands, and brought to a close a summer of uneventful marching, manoeuvring, and foraging. The battle was a success for the Grand Alliance \u2013 the only significant engagement in the theatre during the campaign of 1689.",
+        "id": "a9780681-9056-4dab-aaff-7261b6dc3812",
+        "Name_War": "War of the Grand Alliance",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p412"
+        ],
+        "_version_": 1816263386844889090,
+        "_root_": "a9780681-9056-4dab-aaff-7261b6dc3812",
+        "score": 11.838183
+      },
+      {
+        "ID": "Alavus1808",
+        "Country": "Finland",
+        "Latitude": 62.586452,
+        "Longitude": 23.609911,
+        "Name": "Alavus",
+        "Year": 1808,
+        "Participants": [
+          "['Russia', 'Sweden']"
+        ],
+        "Winner": [
+          "Sweden"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Alavus took place on 17 August 1808 in the vicinity of the town of Alavus (Swedish: Alavo), as part of the Finnish War. The Finnish army, under the command of General Carl Johan Adlercreutz defeated a smaller Russian force and drove it southwards. It was the last in a string of Swedish successes during the summer of 1808, and marked the turning point in the war.",
+        "id": "3f3f7bf0-b49d-4b8a-8ff0-753653f96757",
+        "Name_War": "Napoleonic Wars (Russo-Swedish War)",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p567"
+        ],
+        "_version_": 1816263385075941376,
+        "_root_": "3f3f7bf0-b49d-4b8a-8ff0-753653f96757",
+        "score": 11.560709
+      },
+      {
+        "ID": "Cunaxa-401",
+        "Country": "Iraq",
+        "Latitude": 32.591354,
+        "Longitude": 44.402344,
+        "Name": "Cunaxa",
+        "Year": -401,
+        "Participants": [
+          "['Cunaxa', 'Greek', 'Persia', 'Persian']"
+        ],
+        "Winner": [
+          "Atarxerxes"
+        ],
+        "Loser": [
+          "Cyrus"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Cunaxa was fought in the late summer of 401 BC between the Persian king Artaxerxes II and his brother Cyrus the Younger for control of the Achaemenid throne. The great battle of the revolt of Cyrus took place 70 km north of Babylon, at Cunaxa (Greek: \u039a\u03bf\u03cd\u03bd\u03b1\u03be\u03b1), on the left bank of the Euphrates. The main source is Xenophon, a Greek soldier who participated in the fighting.",
+        "id": "19c8b8d0-d061-4db9-b892-1ddeee54ead6",
+        "Name_War": "Persian Civil War",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "A Global History of Pre Modern Warfare, Kaushik Roy, 2021, p71-72; https://iranicaonline.org/articles/army-I; https://www.britannica.com/event/Battle-of-Cunaxa"
+        ],
+        "_version_": 1816263385825673216,
+        "_root_": "19c8b8d0-d061-4db9-b892-1ddeee54ead6",
+        "score": 11.560709
+      },
+      {
+        "ID": "Fujian1864",
+        "Country": "China",
+        "Latitude": 25.903446,
+        "Longitude": 116.045715,
+        "Name": "Fujian",
+        "Year": 1864,
+        "Participants": [
+          "['China', 'Taiping']"
+        ],
+        "Winner": [
+          "China"
+        ],
+        "Loser": [
+          "Taiping"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Fujian (August 1864 \u2013 June 1865) was fought between forces of the Qing Dynasty and rebels from the Taiping Heavenly Kingdom. By October 1864 around 12,000 pro-Taiping forces commanded by the Shi King Li Shixian had captured Jianning, Shaowu, Tingzhou and Zhangzhou. They held the city for several months until surrendering in the next summer. The Qing recovered territories in Fujian previously lost to the rebels.",
+        "id": "5509b817-b4b4-4dcf-8f45-4e4a0ecc1f30",
+        "Name_War": "Taiping Rebellion",
+        "Lehmann_Zhukov_Scale": 4.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p653"
+        ],
+        "_version_": 1816263386020708355,
+        "_root_": "5509b817-b4b4-4dcf-8f45-4e4a0ecc1f30",
+        "score": 11.560709
+      },
+      {
+        "ID": "Tczew1627",
+        "Country": "Poland",
+        "Latitude": 54.091927,
+        "Longitude": 18.777308,
+        "Name": "Tczew",
+        "Year": 1627,
+        "Participants": [
+          "['Danzig', 'German', 'Kasemark', 'Polish', 'Sweden', 'Swedish', 'Tczew']"
+        ],
+        "Winner": [
+          "Poland"
+        ],
+        "Loser": [
+          "Sweden"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Dirschau (also known as Battle of Tczew) took place in the summer of 1627 (17\u201318 August) and was one of the battles of the Polish\u2013Swedish War (1626\u201329). The Polish forces led by Crown Field Hetman Stanis\u0142aw Koniecpolski met with troops commanded by Swedish King Gustavus Adolphus of Sweden. Gustavus Adolphus was wounded in the battle, which ended inconclusively. Fighting in Prussia ended in a stalemate for that year, and would not resume until 1628.",
+        "id": "97e3ab60-6eb4-4955-ab08-fb24728aaf2a",
+        "Name_War": "2nd Polish-Swedish Wars",
+        "Lehmann_Zhukov_Scale": 2.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p54"
+        ],
+        "_version_": 1816263386762051588,
+        "_root_": "97e3ab60-6eb4-4955-ab08-fb24728aaf2a",
+        "score": 10.801201
+      },
+      {
+        "ID": "Constantine1836-1837",
+        "Country": "Algeria",
+        "Latitude": 36.360153,
+        "Longitude": 6.642433,
+        "Name": "Constantine",
+        "Year": 1836,
+        "Participants": [
+          "['Algeria', 'France', 'French']"
+        ],
+        "Winner": [
+          "France"
+        ],
+        "Loser": [
+          "Bey of Constantine"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The 1837 siege of Constantine was decided by Louis Philippe I and the head of his government, Count Louis-Mathieu Mol\u00e9, in the summer of 1837. At the time, the consolidation of the July Monarchy and the recovery of economic prosperity, the king was considering dissolving the Chamber of Deputies. As with Charles X's 1830 expedition to Algiers, the king of France was seeking more votes in upcoming elections by offering military glory and revenge for Bertrand Clausel's failed expedition against Constantine in 1836.",
+        "id": "5207ef27-a970-4cb1-898d-ab0007086111",
+        "Name_War": "French Conquest of Algeria",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Battles, Eggenberger, p101; Clodfelter, Warfare and Armed Conflict, p198"
+        ],
+        "_version_": 1816263385784778752,
+        "_root_": "5207ef27-a970-4cb1-898d-ab0007086111",
+        "score": 10.569733
+      },
+      {
+        "ID": "Domyoji1615",
+        "Country": "Japan",
+        "Latitude": 34.567265,
+        "Longitude": 135.61116,
+        "Name": "Domyoji",
+        "Year": 1615,
+        "Participants": [
+          "['Hideyori', 'Ieyasu']"
+        ],
+        "Winner": [
+          "Ieyasu"
+        ],
+        "Loser": [
+          "Hideyori"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "On June 5, 1615, the Eastern Army of Tokugawa Ieyasu and the Osaka Army of Toyotomi Hideyori clashed in battle at D\u014dmy\u014dji (\u9053\u660e\u5bfa\u306e\u6226\u3044; D\u014dmy\u014dji no tatakai), Osaka. This battle was one of Japan's major historical battles between samurai forces. This battle was one of a number of battles that took place during the Summer Campaign of the Siege of Osaka that led up to the fall of Osaka to the forces of Tokugawa and the death of Toyotomi Hideyori.",
+        "id": "53d7554e-447d-4fb1-b231-b22824515cea",
+        "Name_War": "Japan's Warring States Period",
+        "Lehmann_Zhukov_Scale": 4.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p337"
+        ],
+        "_version_": 1816263385898024960,
+        "_root_": "53d7554e-447d-4fb1-b231-b22824515cea",
+        "score": 10.569733
+      },
+      {
+        "ID": "Haarlem1572",
+        "Country": "Netherlands",
+        "Latitude": 52.387386,
+        "Longitude": 4.6462193,
+        "Name": "Haarlem",
+        "Year": 1572,
+        "Participants": [
+          "['Netherlands', 'Spain']"
+        ],
+        "Winner": [
+          "Spain"
+        ],
+        "Loser": [
+          "Netherlands"
+        ],
+        "Theatre": "Land",
+        "Massacre": "Battle followed by massacre",
+        "Description": "The siege of Haarlem was an episode of the Eighty Years' War. From 11 December 1572 to 13 July 1573 an army of Philip II of Spain laid bloody siege to the city of Haarlem in the Netherlands, whose loyalties had begun wavering during the previous summer.   After the naval battle of Haarlemmermeer and the defeat of a land relief force, the starving city surrendered and the garrison was massacred.    The resistance nonetheless was taken as an heroic example by the Orangists at the sieges of Alkmaar and Leiden.",
+        "id": "000092ce-2986-4639-9111-a249bd63c846",
+        "Name_War": "Netherlands War of Independence",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p110"
+        ],
+        "_version_": 1816263386129760257,
+        "_root_": "000092ce-2986-4639-9111-a249bd63c846",
+        "score": 10.347977
+      },
+      {
+        "ID": "Smolensk1943",
+        "Country": "Russia",
+        "Latitude": 54.79031,
+        "Longitude": 32.050365,
+        "Name": "Smolensk",
+        "Year": 1943,
+        "Participants": [
+          "['Dnieper', 'Russians', 'Soviet']"
+        ],
+        "Winner": [
+          "USSR"
+        ],
+        "Loser": [
+          "Germany"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The second Smolensk operation (code naming \"Suvorov\"; 7 August \u2013 2 October 1943) was a Soviet strategic offensive operation conducted by the Red Army as part of the Summer-Autumn Campaign of 1943. Staged almost simultaneously with the Lower Dnieper Offensive (13 August \u2013 22 September), the offensive lasted two months and was led by General Andrei Yeremenko, commanding the Kalinin Front, and Vasily Sokolovsky, commanding the Western Front. Its goal was to clear the German presence from the Smolensk and Bryansk regions. Smolensk had been under German occupation since the first Battle of Smolensk in 1941.",
+        "id": "0baa1186-fd57-4c12-bce0-c77bd460dc41",
+        "Name_War": "World War II",
+        "Lehmann_Zhukov_Scale": 6.0,
+        "Alternative_Sources_Consulted": [
+          "Clodfelter, Warfare and Armed Conflict, p458; Forczyk and Hook, Smolensk 1943: The Red Army's Relentless Advance, p123"
+        ],
+        "_version_": 1816263386716962822,
+        "_root_": "0baa1186-fd57-4c12-bce0-c77bd460dc41",
+        "score": 10.347977
+      },
+      {
+        "ID": "Warsaw1915",
+        "Country": "Poland",
+        "Latitude": 52.229675,
+        "Longitude": 21.012228,
+        "Name": "Warsaw",
+        "Year": 1915,
+        "Participants": [
+          "['German', 'Germany', 'Germanys', 'Nowo Georgiewsk', 'Polish', 'Russians', 'Vilna', 'Warsaw']"
+        ],
+        "Winner": [
+          "Germany"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Great Retreat was a strategic withdrawal and evacuation on the Eastern Front of World War I in 1915. The Imperial Russian Army gave up the salient in Galicia and the Polish Congress Kingdom. The Russian Empire's critically under-equipped military suffered great losses in the Central Powers' July\u2013September summer offensive operations, which led to the Stavka ordering a withdrawal to shorten the front lines and avoid the potential encirclement of large Russian forces in the salient. While the withdrawal itself was relatively well-conducted, it was a severe blow to Russian morale.",
+        "id": "35966a06-7ee4-449d-88a1-133ea9fae928",
+        "Name_War": "World War I",
+        "_version_": 1816263386846986242,
+        "_root_": "35966a06-7ee4-449d-88a1-133ea9fae928",
+        "score": 10.347977
+      },
+      {
+        "ID": "Otranto1480",
+        "Country": "Italy",
+        "Latitude": 40.143898,
+        "Longitude": 18.491167,
+        "Name": "Otranto",
+        "Year": 1480,
+        "Participants": [
+          "['Aegean', 'Italy', 'Otranto', 'Ottoman', 'Rhodes', 'Turkish']"
+        ],
+        "Winner": [
+          "Ottoman Empire"
+        ],
+        "Loser": [
+          "Otranto"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "In the summer of 1480, the Ottoman Empire invaded southern Italy, and laid siege to Otranto, finally capturing it on 11 August. This was their first outpost in Italy. According to a traditional account, more than 800 inhabitants were beheaded after the city had been captured.  The Martyrs of Otranto are still celebrated in Italy. A year later, the Ottoman garrison surrendered the city after a siege by Christian forces, bolstered by the intervention of papal forces that were led by Paolo Fregoso of Genoa, and amid uncertainty upon the death of sultan Mehmed II and .",
+        "id": "12da5c09-2e92-4024-8d01-21df534a19a5",
+        "Name_War": "Turkish Imperial Wars",
+        "_version_": 1816263386533462021,
+        "_root_": "12da5c09-2e92-4024-8d01-21df534a19a5",
+        "score": 9.931256
+      },
+      {
+        "ID": "Otranto1917",
+        "Country": "Italy",
+        "Latitude": 40.166336,
+        "Longitude": 18.517876,
+        "Name": "Otranto",
+        "Year": 1917,
+        "Participants": [
+          "['Adriatic', 'Austria', 'British', 'Horthys', 'Otrar', 'the Khwarezmian Empire']"
+        ],
+        "Winner": [
+          "Austria-Hungary"
+        ],
+        "Loser": [
+          "United Kingdom, Italy"
+        ],
+        "Theatre": "Sea",
+        "Massacre": "No",
+        "Description": "In the summer of 1480, the Ottoman Empire invaded southern Italy, and laid siege to Otranto, finally capturing it on 11 August. This was their first outpost in Italy. According to a traditional account, more than 800 inhabitants were beheaded after the city had been captured.  The Martyrs of Otranto are still celebrated in Italy. A year later, the Ottoman garrison surrendered the city after a siege by Christian forces, bolstered by the intervention of papal forces that were led by Paolo Fregoso of Genoa, and amid uncertainty upon the death of sultan Mehmed II and .",
+        "id": "1317587f-6ecb-49a0-98e3-0627f8f49bb0",
+        "Name_War": "World War I",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816263386533462022,
+        "_root_": "1317587f-6ecb-49a0-98e3-0627f8f49bb0",
+        "score": 9.931256
+      },
+      {
+        "ID": "Jutas1808",
+        "Country": "Finland",
+        "Latitude": 63.496548,
+        "Longitude": 22.514687,
+        "Name": "Jutas",
+        "Year": 1808,
+        "Participants": [
+          "['Russia', 'Sweden']"
+        ],
+        "Winner": [
+          "Sweden"
+        ],
+        "Loser": [
+          "Russia"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Jutas (Finnish: Juuttaan taistelu, Swedish: Slaget vid Jutas) was fought on Tuesday, 13 September 1808 between Swedish and Russian troops south of Nykarleby in Ostrobothnia, Finland. Before the battle the Swedish army was in retreat after the campaign of the previous summer. The main Swedish force was retreating from Vaasa to Nykarleby. The Russians sent a force to cut off the Swedish retreat. In response the Swedes sent a force under Georg Carl von D\u00f6beln to intercept them. The battle ended in a Swedish victory, but the main Swedish army was beaten in the Battle of Oravais the very next day.",
+        "id": "354cd1eb-dc01-4bda-a6a3-bf18bef7496b",
+        "Name_War": "Napoleonic Wars (Russo-Swedish War)",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "Alternative_Sources_Consulted": [
+          "Encyclopedia of Warfare, Showalter, 2014, p567-568"
+        ],
+        "_version_": 1816263386241957890,
+        "_root_": "354cd1eb-dc01-4bda-a6a3-bf18bef7496b",
+        "score": 9.546801
+      },
+      {
+        "ID": "Motya-397",
+        "Country": "Italy",
+        "Latitude": 37.867172,
+        "Longitude": 12.467437,
+        "Name": "Motya",
+        "Year": -397,
+        "Participants": [
+          "['Carthage', 'Syracuse']"
+        ],
+        "Winner": [
+          "Carthage"
+        ],
+        "Loser": [
+          "Syracuse"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The siege of Motya took place in summer 398 BC in western Sicily. Dionysius, after securing peace with Carthage in 405 BC, had steadily increased his military power and had tightened his grip on Syracuse. He had fortified Syracuse against sieges and had created a large army of mercenaries and a large fleet, in addition to employing the catapult and quinqueremes for the first time in history. In 398 BC, he attacked and sacked the Phoenician city of Motya despite the Carthaginian relief effort led by Himilco. Carthage also lost most of her territorial gains secured in 405 BC after Dionysius declared war on Carthage in 398 BC.",
+        "id": "3431a538-96e5-4536-814f-526694e07ca3",
+        "Name_War": "1st Dionysian War",
+        "Lehmann_Zhukov_Scale": 3.0,
+        "Alternative_Sources_Consulted": [
+          "Harbottle's Dictionary of Battles, George Bruce, 1979, p172"
+        ],
+        "_version_": 1816263386450624520,
+        "_root_": "3431a538-96e5-4536-814f-526694e07ca3",
+        "score": 9.546801
+      },
+      {
+        "ID": "Osaka Castle1614",
+        "Country": "Japan",
+        "Latitude": 34.693737,
+        "Longitude": 135.50217,
+        "Name": "Osaka Castle",
+        "Year": 1614,
+        "Participants": [
+          "['Tokugawa Ieysasu', 'Toyotomi Hideyoshi']"
+        ],
+        "Winner": [
+          "Tokugawa Ieysasu"
+        ],
+        "Loser": [
+          "Toyotomi Hideyoshi"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The siege of Osaka (\u5927\u5742\u306e\u5f79, \u014csaka no Eki, or, more commonly, \u5927\u5742\u306e\u9663 \u014csaka no Jin) was a series of battles undertaken by the Japanese Tokugawa shogunate against the Toyotomi clan, and ending in that clan's destruction. Divided into two stages, the winter campaign and the summer campaign, it lasted from 1614 to 1615. The siege put an end to the last major armed opposition to the establishment of the Tokugawa shogunate. The end of the conflict is sometimes called the Genna Armistice (\u5143\u548c\u5043\u6b66, Genna Enbu), because the era name was changed from Keich\u014d to Genna immediately following the siege.",
+        "id": "89e26dbf-4f13-4cbf-89a8-d393e39b2149",
+        "Name_War": "Japan's Era of the Warring States",
+        "Lehmann_Zhukov_Scale": 4.0,
+        "Alternative_Sources_Consulted": [
+          "Besieged, Paul K Davis, p 125"
+        ],
+        "_version_": 1816263386529267716,
+        "_root_": "89e26dbf-4f13-4cbf-89a8-d393e39b2149",
+        "score": 9.546801
+      },
+      {
+        "ID": "Piqua1780",
+        "Country": "United States",
+        "Latitude": 40.14477,
+        "Longitude": -84.24245,
+        "Name": "Piqua",
+        "Year": 1780,
+        "Participants": [
+          "['American', 'Delaware', 'Indian', 'Kentucky', 'Ohio']"
+        ],
+        "Winner": [
+          "United States"
+        ],
+        "Loser": [
+          "Shawnee Indians, Delaware Indians"
+        ],
+        "Theatre": "Land",
+        "Massacre": "No",
+        "Description": "The Battle of Piqua, also known as the Battle of Peckowee, Battle of Pekowi, Battle of Peckuwe and the Battle of Pickaway, was a military engagement fought on August 8, 1780, at the Indian village of Piqua along the Mad River in western Ohio Country between the Kentucky County militia under General George Rogers Clark and Shawnee Indians under Chief Black Hoof.  The Indians were driven off and the village and surrounding fields burned, but Clark suffered daunting casualties. Clark's expedition was in response to Bird's invasion of Kentucky earlier that summer by a combined force of Shawnee, Lenape and Miami warriors that killed and captured hundreds of white settlers.",
+        "id": "f8bcb046-a27a-4271-96d9-f6c2919359a6",
+        "Name_War": "War of the American Revolution",
+        "Lehmann_Zhukov_Scale": 1.0,
+        "_version_": 1816263386576453638,
+        "_root_": "f8bcb046-a27a-4271-96d9-f6c2919359a6",
+        "score": 9.546801
+      }
+    ]
+  }
+}

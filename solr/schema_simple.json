@@ -1,0 +1,99 @@
+{
+    "add-field": [
+        {
+            "name": "ID",
+            "type": "string",
+            "indexed": true,
+            "stored": true,
+            "required": true
+        },
+        {
+            "name": "Country",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Latitude",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Longitude",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Name",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Year",
+            "type": "pint",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Participants",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Winner",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Loser",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        },
+        {
+            "name": "Theatre",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Massacre",
+            "type": "text_general", 
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Description",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Name_War",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Lehmann_Zhukov_Scale",
+            "type": "pfloat",
+            "indexed": true,
+            "stored": true
+        },
+        {
+            "name": "Alternative_Sources_Consulted",
+            "type": "text_general",
+            "indexed": true,
+            "stored": true,
+            "multiValued": true
+        }
+    ]
+}
